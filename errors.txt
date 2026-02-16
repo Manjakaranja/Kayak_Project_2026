@@ -1,0 +1,25 @@
+1. Err 1 : Nominatim : need to use Headers
+
+Traceback (most recent call last):
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/.conda/lib/python3.11/site-packages/requests/models.py", line 976, in json
+    return complexjson.loads(self.text, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/.conda/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/.conda/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/.conda/lib/python3.11/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/02 - PROJECTS/02_KAYAK/00-Coordinates.py", line 47, in <module>
+    print(result.json())
+          ^^^^^^^^^^^^^
+  File "/Users/manjakaranjatoson/Desktop/A_I/JEDHA/COURS/.conda/lib/python3.11/site-packages/requests/models.py", line 980, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

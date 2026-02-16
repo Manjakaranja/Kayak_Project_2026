@@ -1,0 +1,90 @@
+1. Get Coordinates for each city in JSON
+    1.1. Will use the unstructured way with q as the names in the list given are not all of same nature not all cities, nor departments etc. 
+        For example, 
+            Ariège: It's a department and a river, not a specific town.
+            Gorges du Verdon: It's a natural canyon, not a municipality.
+        After checks, these names are unique; there are no duplicates.
+
+2. Get API CRED OPENWEATHER & check API possibility BOOKING
+    2.1 Openweather : Put in DF - Call 16 day / daily forecast data / USE : api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key}
+    2.2 Booking : CSS / API is not free (need to insert payment methods)
+3. SCRAP OPENWEATHER DATA with API
+4. SCRAP BOOKING CSS
+
+================================================================================================
+
+
+1. Customers need more info about destination they are going to (after buy perhaps)
+2. They need to know the brand that produced the content (if not they are defiant)
+3. KAYAK wants to create an recommendation APP where ppl plan next holidays.
+    3.a. Based on Weather (Openweather API easy)
+    3.b. Based on Hotels info (annex 2) in the area (Booking scrapping / API if there is)
+    3.c. Should be available at any given time (A-Z availability ?)
+
+4. GOALS/STEPS 🚩 : 
+    4.1. Scrape data from destinations (annex 1)
+    4.2.  ↘️ Get weather data API & hotels info API
+    4.3. Store all data/infos in a data lake (S3) as CS FILE
+    4.4. ETL it from datalake S3 to data warehouse RDS
+
+5. Deliverable 📬 :
+    5.1. To complete this project, your team should deliver:
+    5.2. A .csv file in an S3 bucket containing enriched information about weather and hotels for each french city
+    5.3. A SQL Database where we should be able to get the same cleaned data from S3
+    5.4. Two maps where you should have a Top-5 destinations and a Top-20 hotels in the area. 
+        You can use plotly or any other library to do so. It should look something like this:
+
+SEE GRAPH IN 01-Plan_your_trip_with_Kayak.ipynb
+
+
+
+
+Annex 1 : 
+SCOPE of project - the top-35 cities to visit in France:
+
+["Mont Saint Michel",
+"St Malo",
+"Bayeux",
+"Le Havre",
+"Rouen",
+"Paris",
+"Amiens",
+"Lille",
+"Strasbourg",
+"Chateau du Haut Koenigsbourg",
+"Colmar",
+"Eguisheim",
+"Besancon",
+"Dijon",
+"Annecy",
+"Grenoble",
+"Lyon",
+"Gorges du Verdon",
+"Bormes les Mimosas",
+"Cassis",
+"Marseille",
+"Aix en Provence",
+"Avignon",
+"Uzes",
+"Nimes",
+"Aigues Mortes",
+"Saintes Maries de la mer",
+"Collioure",
+"Carcassonne",
+"Ariege",
+"Toulouse",
+"Montauban",
+"Biarritz",
+"Bayonne",
+"La Rochelle"]
+
+
+Annex 2 :
+WHAT to scrape on Booking.com
+
+hotel name,
+Url to its booking.com page,
+Its coordinates: latitude and longitude
+Score given by the website users
+Text description of the hotel
+
