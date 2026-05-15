@@ -15,7 +15,12 @@ Producing analytical outputs and visualizations
 
 The project follows the specifications provided in the “Plan your trip with Kayak” case study.
 
+Although the RNCP35288 certification is currently marked as inactive since February 10th, 2026, this status only applies to new enrollments. Learners enrolled before this date remain fully eligible to complete the certification process and obtain a valid RNCP certification, in accordance with France Compétences transition rules.
+
+Additional information can be verified through the official RNCP registry and France Compétences.
+
 https://www.francecompetences.fr/recherche/rncp/35288/
+
 
 ## Project Overview
 
