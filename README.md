@@ -1,28 +1,32 @@
-# Kayak Travel Recommendation Pipeline
+# Cloud-Based Travel Recommendation Data Pipeline
 
-## Academic Context
+Cloud-based ETL pipeline developed for the Kayak travel recommendation case study.
 
-This project was developed as part of the CDSD RNCP 35288 Level 6 (Bachelor's degree) certification pathway and specifically corresponds to the requirements of Bloc 1 focused on Data Engineering, Data Collection and Cloud Data Infrastructure implementation.
+---
 
-The objective of this bloc is to design and build a complete data pipeline capable of:
+# Academic Context
 
-Collecting data from external sources
-Structuring and storing raw datasets
-Implementing transformation workflows
-Managing cloud storage infrastructure
-Loading curated datasets into a relational warehouse
-Producing analytical outputs and visualizations
+This project was developed as part of the CDSD RNCP Level 6 certification pathway (RNCP35288), specifically for Bloc 1: *Construction et alimentation d'une infrastructure de gestion de données*.
 
-The project follows the specifications provided in the “Plan your trip with Kayak” case study.
+The objective of this bloc is to design and implement a complete data infrastructure capable of:
 
-Although the RNCP35288 certification is currently marked as inactive since February 10th, 2026, this status only applies to new enrollments. Learners enrolled before this date remain fully eligible to complete the certification process and obtain a valid RNCP certification, in accordance with France Compétences transition rules.
+* Collecting data from external sources
+* Structuring and storing raw datasets
+* Building ETL workflows
+* Managing cloud storage infrastructure
+* Loading curated datasets into a relational warehouse
+* Producing analytical outputs and visualizations
 
-Additional information can be verified through the official RNCP registry and France Compétences.
+The project follows the specifications of the “Plan your trip with Kayak” case study. 
 
-https://www.francecompetences.fr/recherche/rncp/35288/
+Although RNCP35288 is currently marked as inactive since February 10th, 2026, this status only concerns new enrollments. Learners enrolled before this date remain fully eligible to complete the certification process and obtain a valid RNCP certification, in accordance with France Compétences transition rules. 
 
+Official RNCP registry:
+[France Compétences – RNCP35288](https://www.francecompetences.fr/recherche/rncp/35288/?utm_source=chatgpt.com)
 
-## Project Overview
+---
+
+# Project Overview
 
 This project implements an end-to-end data engineering pipeline designed to identify the best travel destinations in France based on short-term weather conditions and enrich those destinations with hotel recommendations collected from Booking.com.
 
@@ -37,9 +41,23 @@ The pipeline combines:
 * Automated orchestration
 * Interactive visual analytics
 
-The architecture follows a modular ETL/ELT design commonly used in production-grade data platforms.
+The architecture follows a modular ETL/ELT design inspired by production-grade data engineering workflows.
 
-The project is structured to clearly separate extraction, transformation, loading, analytics and visualization responsibilities across dedicated modules.
+The project structure separates extraction, transformation, loading, analytics and visualization responsibilities into dedicated modules.
+
+---
+
+# Key Features
+
+* Modular ETL architecture
+* API-based weather ingestion
+* Dynamic hotel scraping with Scrapy and Playwright
+* AWS S3 Data Lake integration
+* PostgreSQL warehouse loading on AWS RDS
+* Automated orchestration pipeline
+* Weather-based destination scoring engine
+* Interactive Plotly visualizations
+* Separation between raw and curated datasets
 
 ---
 
@@ -91,7 +109,7 @@ project/
 └── README.md
 ```
 
-The separation between `raw`, `outputs`, `extract`, `transform`, `load`, `analytics` and `visualization` mirrors the organization commonly used in modern data lake and data warehouse projects.
+The separation between `raw`, `outputs`, `extract`, `transform`, `load`, `analytics` and `visualization` mirrors the organization commonly used in modern data lake and data warehouse projects. 
 
 ---
 
@@ -129,8 +147,7 @@ Visualization Generation
 
 The orchestration layer centralizes the execution order of all modules and guarantees deterministic execution of the complete workflow.
 
-
-**Architectural Note**
+## Architectural Note
 
 Hotel scraping is intentionally performed only after computing the Top 5 destinations. This design reduces unnecessary scraping operations, limits the number of requests sent to Booking.com, decreases execution time and infrastructure costs, and minimizes the risk of blocking or throttling during scraping operations.
 
@@ -195,15 +212,13 @@ For each city:
 2. Coordinates are extracted
 3. Results are saved locally as JSON
 
-The module also introduces throttling using `time.sleep(1)` in order to respect API usage policies.
+The module introduces throttling using `time.sleep(1)` in order to respect API usage policies.
 
 Output:
 
 ```text
 data/raw/coordinates/coordinates.json
 ```
-
-This file becomes the geographical foundation of the rest of the pipeline.
 
 ---
 
@@ -217,7 +232,7 @@ src/extract/extract_weather.py
 
 Using the coordinates generated previously, the pipeline queries the OpenWeather Forecast API.
 
-For each city:
+For each city, the pipeline collects:
 
 * Temperature
 * Feels-like temperature
@@ -226,16 +241,14 @@ For each city:
 * Rain forecast
 * Weather description
 
-are collected for multiple forecast intervals.
-
-Two output formats are generated:
+Outputs:
 
 ```text
 data/raw/weather/weather_forecasts.json
 data/raw/weather/weather_forecasts.csv
 ```
 
-The JSON file preserves the raw API response while the CSV file provides a tabular structure suitable for downstream analytics.
+The JSON output preserves the raw API response while the CSV output provides a structured tabular format suitable for downstream analytics.
 
 ---
 
@@ -257,7 +270,7 @@ data/raw/
 
 and uploads all CSV files to AWS S3.
 
-A key design choice here is the use of:
+A key design choice is the use of:
 
 ```python
 relative_path = path.relative_to(RAW_DIR)
@@ -277,7 +290,7 @@ becomes:
 s3://01-kayak-jedha/raw/weather/weather_forecasts.csv
 ```
 
-This approach mirrors production data lake organization practices.
+This approach mirrors production-oriented data lake organization practices.
 
 ---
 
@@ -301,13 +314,13 @@ Transformations include:
 * Text standardization
 * City name normalization
 
-The cleaned dataset is exported as:
+Output:
 
 ```text
 data/outputs/weather_cleaned.csv
 ```
 
-The outputs directory represents curated analytical datasets ready for warehouse ingestion.
+The outputs directory represents curated analytical datasets ready for warehouse ingestion. 
 
 ---
 
@@ -364,8 +377,6 @@ The scoring model evaluates:
 * Humidity
 * Temperature comfort
 
-Each criterion contributes positively or negatively to the final score.
-
 The pipeline then:
 
 1. Aggregates scores by city
@@ -401,13 +412,6 @@ The scraper uses:
 
 to handle dynamically rendered pages.
 
-For each destination:
-
-1. Search results pages are loaded
-2. Hotel links are extracted
-3. Individual hotel pages are visited
-4. Structured hotel information is collected
-
 Extracted fields include:
 
 * Hotel name
@@ -426,9 +430,9 @@ The scraper includes:
 * Error handling
 * Concurrency control
 
-These protections are important in professional scraping pipelines to reduce blocking risk and improve stability.
+These protections help reduce blocking risks and improve scraping stability.
 
-Raw outputs are saved under:
+Outputs are stored under:
 
 ```text
 data/raw/booking/
@@ -454,13 +458,13 @@ Cleaning operations include:
 * Text normalization
 * City standardization
 
-The cleaned dataset is exported as:
+Output:
 
 ```text
 data/outputs/hotels_cleaned.csv
 ```
 
-The use of URL deduplication is particularly important because hotel names may vary while URLs remain stable identifiers.
+The use of URL deduplication is particularly important because hotel names may vary while URLs remain stable identifiers. 
 
 ---
 
@@ -557,11 +561,9 @@ which provides traceability and execution monitoring.
 
 # AWS Architecture
 
-The project uses AWS as both storage and warehouse infrastructure.
-
 ## AWS S3
 
-S3 acts as the project's data lake:
+S3 acts as the project's Data Lake where:
 
 * Raw datasets
 * Curated outputs
@@ -569,17 +571,15 @@ S3 acts as the project's data lake:
 
 are persisted in cloud object storage.
 
----
-
 ## AWS RDS PostgreSQL
 
 RDS acts as the analytical warehouse layer.
 
-Structured relational tables allow:
+Structured relational tables support:
 
 * SQL exploration
-* Dashboard integration
 * Aggregation queries
+* Dashboard integration
 * Analytical reporting
 
 ---
@@ -640,17 +640,17 @@ These notebooks were used for:
 
 # Running the Pipeline
 
-## Install dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Configure environment variables
+## Configure Environment Variables
 
-Create a `.env` file containing:
+Create a `.env` file:
 
-```text
+```env
 API_KEY=
 AWS_ACCESS_KEY=
 AWS_SECRET_ACCESS_KEY=
@@ -662,7 +662,7 @@ RDS_USER=
 RDS_PASSWORD=
 ```
 
-## Run the full pipeline
+## Run the Full Pipeline
 
 ```bash
 python -m src.orchestration.orchestration
@@ -674,8 +674,6 @@ The orchestration layer automatically executes all modules in the correct order.
 
 # Final Outputs
 
-The pipeline produces:
-
 | Output                    | Description                          |
 | ------------------------- | ------------------------------------ |
 | `weather_cleaned.csv`     | Cleaned weather forecasts            |
@@ -683,6 +681,18 @@ The pipeline produces:
 | `top_5_destinations.csv`  | Ranked travel destinations           |
 | `top_5_destinations.html` | Interactive destination map          |
 | `top_20_hotels_map.html`  | Interactive hotel recommendation map |
+
+---
+
+# Future Improvements
+
+* Docker containerization
+* CI/CD integration
+* Airflow or Prefect scheduling
+* Automated testing suite
+* Incremental data loading
+* Data validation layer
+* Infrastructure as Code deployment
 
 ---
 
@@ -698,4 +708,4 @@ This project demonstrates the implementation of a complete cloud-based data engi
 * Automated orchestration
 * Interactive analytics
 
-The architecture was designed to remain modular, extensible and production-oriented while following common industry practices used in modern ETL and analytics platforms.
+The architecture was designed to remain modular, extensible and production-oriented while following modern data engineering practices.
