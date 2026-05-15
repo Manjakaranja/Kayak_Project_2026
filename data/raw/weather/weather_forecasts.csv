@@ -1,0 +1,1401 @@
+city,datetime,temperature,feels_like,humidity,weather,wind_speed,rain_3h
+Mont Saint Michel,2026-05-15 15:00:00,12.47,11.5,66,light rain,6.55,0.18
+Mont Saint Michel,2026-05-15 18:00:00,12.04,11.08,68,scattered clouds,5.48,0
+Mont Saint Michel,2026-05-15 21:00:00,9.85,7.85,76,light rain,3.93,0.3
+Mont Saint Michel,2026-05-16 00:00:00,6.74,4.88,83,light rain,2.61,0.15
+Mont Saint Michel,2026-05-16 03:00:00,7.58,5.46,82,light rain,3.23,0.26
+Mont Saint Michel,2026-05-16 06:00:00,8.53,6.88,81,broken clouds,2.79,0
+Mont Saint Michel,2026-05-16 09:00:00,11.83,10.82,67,broken clouds,4.1,0
+Mont Saint Michel,2026-05-16 12:00:00,12.62,11.71,68,broken clouds,6.14,0
+Mont Saint Michel,2026-05-16 15:00:00,12.74,12.29,85,light rain,5.58,0.41
+Mont Saint Michel,2026-05-16 18:00:00,11.38,11.03,94,light rain,3.34,1.51
+Mont Saint Michel,2026-05-16 21:00:00,10.84,10.41,93,light rain,3.45,0.32
+Mont Saint Michel,2026-05-17 00:00:00,10.58,10.12,93,light rain,3.85,0.56
+Mont Saint Michel,2026-05-17 03:00:00,9.48,7.56,90,light rain,3.59,0.31
+Mont Saint Michel,2026-05-17 06:00:00,8.74,6.84,92,overcast clouds,3.26,0
+Mont Saint Michel,2026-05-17 09:00:00,11.97,11.23,77,overcast clouds,4.47,0
+Mont Saint Michel,2026-05-17 12:00:00,13.42,12.72,73,light rain,5.55,0.59
+Mont Saint Michel,2026-05-17 15:00:00,13.19,12.39,70,light rain,4.79,0.37
+Mont Saint Michel,2026-05-17 18:00:00,12.19,11.34,72,overcast clouds,3.17,0
+Mont Saint Michel,2026-05-17 21:00:00,10,7.88,81,light rain,4.27,0.26
+Mont Saint Michel,2026-05-18 00:00:00,8.56,6.32,90,light rain,3.83,0.32
+Mont Saint Michel,2026-05-18 03:00:00,8.99,7.15,87,light rain,3.26,0.26
+Mont Saint Michel,2026-05-18 06:00:00,9.01,6.67,90,light rain,4.24,0.14
+Mont Saint Michel,2026-05-18 09:00:00,12.39,11.77,80,light rain,6.22,1.13
+Mont Saint Michel,2026-05-18 12:00:00,11.43,10.85,85,light rain,5.19,0.76
+Mont Saint Michel,2026-05-18 15:00:00,11.99,11.46,85,light rain,4.56,0.26
+Mont Saint Michel,2026-05-18 18:00:00,10.7,10.23,92,light rain,3.79,0.78
+Mont Saint Michel,2026-05-18 21:00:00,11.03,10.62,93,light rain,4.65,1.18
+Mont Saint Michel,2026-05-19 00:00:00,11.12,10.74,94,light rain,7.36,0.79
+Mont Saint Michel,2026-05-19 03:00:00,12.06,11.83,96,light rain,7.93,0.67
+Mont Saint Michel,2026-05-19 06:00:00,13.43,13.39,98,light rain,5.73,1.44
+Mont Saint Michel,2026-05-19 09:00:00,16.09,15.97,85,light rain,6.48,0.85
+Mont Saint Michel,2026-05-19 12:00:00,17.32,17.04,74,light rain,6.22,0.36
+Mont Saint Michel,2026-05-19 15:00:00,16.74,16.48,77,light rain,5.19,0.71
+Mont Saint Michel,2026-05-19 18:00:00,15.16,14.92,84,light rain,2.39,0.38
+Mont Saint Michel,2026-05-19 21:00:00,12.62,12.31,91,overcast clouds,2.23,0
+Mont Saint Michel,2026-05-20 00:00:00,11.58,11.27,95,broken clouds,3.4,0
+Mont Saint Michel,2026-05-20 03:00:00,10.9,10.55,96,overcast clouds,2.93,0
+Mont Saint Michel,2026-05-20 06:00:00,11.91,11.69,97,broken clouds,2.59,0
+Mont Saint Michel,2026-05-20 09:00:00,14.09,13.85,88,overcast clouds,3.35,0
+Mont Saint Michel,2026-05-20 12:00:00,17.63,17.41,75,overcast clouds,1.82,0
+St Malo,2026-05-15 15:00:00,13.29,12.53,71,broken clouds,6.73,0
+St Malo,2026-05-15 18:00:00,12.66,11.81,70,broken clouds,6.29,0
+St Malo,2026-05-15 21:00:00,11.07,10.06,70,scattered clouds,6.63,0
+St Malo,2026-05-16 00:00:00,7.71,4.53,75,clear sky,5.49,0
+St Malo,2026-05-16 03:00:00,8.46,5.77,71,light rain,4.74,0.18
+St Malo,2026-05-16 06:00:00,9.2,7.24,73,scattered clouds,3.56,0
+St Malo,2026-05-16 09:00:00,11.93,10.88,65,overcast clouds,4.69,0
+St Malo,2026-05-16 12:00:00,12.32,11.54,74,overcast clouds,6.09,0
+St Malo,2026-05-16 15:00:00,12.32,11.88,87,light rain,5.1,0.78
+St Malo,2026-05-16 18:00:00,11.61,11.15,89,light rain,3.45,0.73
+St Malo,2026-05-16 21:00:00,11.39,10.91,89,overcast clouds,5.44,0
+St Malo,2026-05-17 00:00:00,10.87,10.36,90,light rain,5.9,0.23
+St Malo,2026-05-17 03:00:00,9.04,6.36,87,overcast clouds,5.08,0
+St Malo,2026-05-17 06:00:00,9.31,6.77,88,overcast clouds,4.9,0
+St Malo,2026-05-17 09:00:00,12.01,11.28,77,overcast clouds,5.85,0
+St Malo,2026-05-17 12:00:00,12,11.27,77,light rain,5.67,0.86
+St Malo,2026-05-17 15:00:00,12.83,11.94,68,light rain,4.14,0.31
+St Malo,2026-05-17 18:00:00,12.32,11.44,70,overcast clouds,3.83,0
+St Malo,2026-05-17 21:00:00,10.7,9.86,78,light rain,4.28,0.42
+St Malo,2026-05-18 00:00:00,9.63,6.99,83,light rain,5.36,0.12
+St Malo,2026-05-18 03:00:00,9.31,6.75,82,overcast clouds,4.95,0
+St Malo,2026-05-18 06:00:00,9.95,7.15,86,light rain,6.08,0.43
+St Malo,2026-05-18 09:00:00,12.48,11.77,76,light rain,6.95,0.8
+St Malo,2026-05-18 12:00:00,11.76,11.16,83,light rain,5.87,0.29
+St Malo,2026-05-18 15:00:00,11.76,11.18,84,light rain,5.67,0.32
+St Malo,2026-05-18 18:00:00,11.13,10.7,92,light rain,3.92,1.08
+St Malo,2026-05-18 21:00:00,11.2,10.75,91,light rain,5.88,1.23
+St Malo,2026-05-19 00:00:00,11.86,11.5,92,light rain,9.03,1.02
+St Malo,2026-05-19 03:00:00,12.97,12.83,96,light rain,8.24,0.11
+St Malo,2026-05-19 06:00:00,14.29,14.26,95,light rain,5.55,0.54
+St Malo,2026-05-19 09:00:00,15.57,15.35,83,light rain,6.77,0.19
+St Malo,2026-05-19 12:00:00,15.36,15.07,81,light rain,5.27,0.22
+St Malo,2026-05-19 15:00:00,15.54,15.26,81,light rain,5.45,0.47
+St Malo,2026-05-19 18:00:00,15.19,14.96,84,light rain,4.47,0.38
+St Malo,2026-05-19 21:00:00,13.19,12.89,89,overcast clouds,3.2,0
+St Malo,2026-05-20 00:00:00,11.91,11.58,93,broken clouds,4.62,0
+St Malo,2026-05-20 03:00:00,11.69,11.4,95,overcast clouds,4.84,0
+St Malo,2026-05-20 06:00:00,12.91,12.68,93,broken clouds,4.62,0
+St Malo,2026-05-20 09:00:00,15.3,15.08,84,scattered clouds,3.8,0
+St Malo,2026-05-20 12:00:00,18.35,18.04,69,broken clouds,0.63,0
+Bayeux,2026-05-15 15:00:00,14.14,13.18,60,broken clouds,4.11,0
+Bayeux,2026-05-15 18:00:00,13.23,12.25,63,broken clouds,2.83,0
+Bayeux,2026-05-15 21:00:00,10.13,9.34,82,light rain,4.07,0.13
+Bayeux,2026-05-16 00:00:00,5.85,2.85,92,clear sky,4.1,0
+Bayeux,2026-05-16 03:00:00,5.29,2.04,93,clear sky,4.31,0
+Bayeux,2026-05-16 06:00:00,7.97,5.59,89,light rain,3.83,0.1
+Bayeux,2026-05-16 09:00:00,10.85,9.64,63,broken clouds,4.46,0
+Bayeux,2026-05-16 12:00:00,10.86,9.96,75,light rain,5.43,0.1
+Bayeux,2026-05-16 15:00:00,13.23,12.51,73,overcast clouds,5.61,0
+Bayeux,2026-05-16 18:00:00,11.08,10.65,92,light rain,4.74,0.52
+Bayeux,2026-05-16 21:00:00,9.65,7.41,96,overcast clouds,4.37,0
+Bayeux,2026-05-17 00:00:00,9.57,7.04,95,overcast clouds,5.04,0
+Bayeux,2026-05-17 03:00:00,7.2,4.39,96,broken clouds,4.35,0
+Bayeux,2026-05-17 06:00:00,8.25,5.77,92,overcast clouds,4.16,0
+Bayeux,2026-05-17 09:00:00,12.14,11.42,77,light rain,6.22,0.13
+Bayeux,2026-05-17 12:00:00,12.14,11.52,81,light rain,3.43,1.11
+Bayeux,2026-05-17 15:00:00,13.27,12.51,71,light rain,4.08,0.74
+Bayeux,2026-05-17 18:00:00,11.3,10.55,79,light rain,4.22,0.38
+Bayeux,2026-05-17 21:00:00,8.67,6.59,86,overcast clouds,3.56,0
+Bayeux,2026-05-18 00:00:00,8.26,6.04,87,overcast clouds,3.65,0
+Bayeux,2026-05-18 03:00:00,8.15,5,90,light rain,5.7,0.13
+Bayeux,2026-05-18 06:00:00,9.21,6.45,84,light rain,5.41,0.38
+Bayeux,2026-05-18 09:00:00,11.96,11.01,69,light rain,7.23,0.13
+Bayeux,2026-05-18 12:00:00,13.28,12.6,74,light rain,7.23,0.46
+Bayeux,2026-05-18 15:00:00,13.2,12.66,80,light rain,6.14,1.16
+Bayeux,2026-05-18 18:00:00,11.14,10.56,86,light rain,5.78,0.27
+Bayeux,2026-05-18 21:00:00,9.86,7.67,93,light rain,4.37,0.46
+Bayeux,2026-05-19 00:00:00,10.17,9.67,93,light rain,5.41,0.66
+Bayeux,2026-05-19 03:00:00,11.16,10.79,94,light rain,7.66,0.19
+Bayeux,2026-05-19 06:00:00,12.34,12.11,95,overcast clouds,7.02,0
+Bayeux,2026-05-19 09:00:00,14.93,14.85,91,light rain,6.43,0.4
+Bayeux,2026-05-19 12:00:00,17.53,17.09,67,light rain,8.75,0.19
+Bayeux,2026-05-19 15:00:00,17.26,16.74,65,scattered clouds,7.88,0
+Bayeux,2026-05-19 18:00:00,15.24,14.91,80,few clouds,5.66,0
+Bayeux,2026-05-19 21:00:00,10.92,10.55,95,scattered clouds,4.02,0
+Bayeux,2026-05-20 00:00:00,10.79,10.43,96,broken clouds,3.97,0
+Bayeux,2026-05-20 03:00:00,10.56,10.18,96,overcast clouds,4.05,0
+Bayeux,2026-05-20 06:00:00,12.04,11.75,94,overcast clouds,4.11,0
+Bayeux,2026-05-20 09:00:00,16.63,16.36,77,few clouds,4.41,0
+Bayeux,2026-05-20 12:00:00,19.09,18.75,65,scattered clouds,4.64,0
+Le Havre,2026-05-15 15:00:00,12.51,11.67,71,overcast clouds,4.57,0
+Le Havre,2026-05-15 18:00:00,12,11.06,69,overcast clouds,4.55,0
+Le Havre,2026-05-15 21:00:00,11.37,10.31,67,scattered clouds,6.24,0
+Le Havre,2026-05-16 00:00:00,10.05,9.04,74,light rain,6.97,0.24
+Le Havre,2026-05-16 03:00:00,9.84,7.66,76,light rain,4.33,0.8
+Le Havre,2026-05-16 06:00:00,10.29,9.28,73,light rain,5.8,0.93
+Le Havre,2026-05-16 09:00:00,11.08,9.94,65,light rain,5.96,0.21
+Le Havre,2026-05-16 12:00:00,10.21,9.06,68,scattered clouds,3.83,0
+Le Havre,2026-05-16 15:00:00,11.61,10.71,72,overcast clouds,4.86,0
+Le Havre,2026-05-16 18:00:00,12.59,12.02,81,light rain,3.63,0.1
+Le Havre,2026-05-16 21:00:00,11.79,11.35,89,light rain,5.8,1.4
+Le Havre,2026-05-17 00:00:00,11.51,11.01,88,light rain,5.86,0.2
+Le Havre,2026-05-17 03:00:00,11.41,10.83,85,light rain,7.09,0.15
+Le Havre,2026-05-17 06:00:00,10.84,10.12,82,overcast clouds,6.64,0
+Le Havre,2026-05-17 09:00:00,12.03,11.25,75,overcast clouds,6.53,0
+Le Havre,2026-05-17 12:00:00,12.08,11.43,80,light rain,5.63,0.91
+Le Havre,2026-05-17 15:00:00,12.19,11.27,69,overcast clouds,3.69,0
+Le Havre,2026-05-17 18:00:00,11.84,10.96,72,overcast clouds,2.61,0
+Le Havre,2026-05-17 21:00:00,11.68,10.81,73,light rain,4.65,0.13
+Le Havre,2026-05-18 00:00:00,10.7,9.78,75,light rain,6.93,0.86
+Le Havre,2026-05-18 03:00:00,10.3,9.53,82,light rain,6.74,0.46
+Le Havre,2026-05-18 06:00:00,10.46,9.65,80,light rain,7.82,0.7
+Le Havre,2026-05-18 09:00:00,11.12,10.25,75,light rain,8.19,0.37
+Le Havre,2026-05-18 12:00:00,12.8,12.04,73,light rain,6.47,0.52
+Le Havre,2026-05-18 15:00:00,12.92,12.36,80,light rain,5.92,1.16
+Le Havre,2026-05-18 18:00:00,12.43,11.92,84,light rain,6.59,1.15
+Le Havre,2026-05-18 21:00:00,11.29,10.8,89,light rain,6.92,0.39
+Le Havre,2026-05-19 00:00:00,11.02,10.58,92,light rain,7.32,0.97
+Le Havre,2026-05-19 03:00:00,11.39,10.96,91,light rain,8.97,1.22
+Le Havre,2026-05-19 06:00:00,12.02,11.71,93,light rain,10.27,0.2
+Le Havre,2026-05-19 09:00:00,13.44,13.27,93,light rain,8.51,0.18
+Le Havre,2026-05-19 12:00:00,15.31,15.01,81,light rain,6.2,0.48
+Le Havre,2026-05-19 15:00:00,15.45,15.04,76,few clouds,7.43,0
+Le Havre,2026-05-19 18:00:00,14.67,14.33,82,clear sky,5.24,0
+Le Havre,2026-05-19 21:00:00,13.84,13.58,88,few clouds,5.12,0
+Le Havre,2026-05-20 00:00:00,12.51,12.19,91,scattered clouds,5.14,0
+Le Havre,2026-05-20 03:00:00,13.01,12.72,90,light rain,5.34,0.11
+Le Havre,2026-05-20 06:00:00,12.99,12.69,90,overcast clouds,4.9,0
+Le Havre,2026-05-20 09:00:00,14.52,14.25,85,scattered clouds,3.67,0
+Le Havre,2026-05-20 12:00:00,15.49,15.24,82,scattered clouds,3.28,0
+Rouen,2026-05-15 15:00:00,13.3,12.25,60,light rain,4.54,0.24
+Rouen,2026-05-15 18:00:00,13.01,12.04,64,broken clouds,3.62,0
+Rouen,2026-05-15 21:00:00,10.29,9.46,80,broken clouds,2.19,0
+Rouen,2026-05-16 00:00:00,7.33,5.19,92,scattered clouds,3.18,0
+Rouen,2026-05-16 03:00:00,6.59,4.56,94,clear sky,2.8,0
+Rouen,2026-05-16 06:00:00,8.44,6.59,91,scattered clouds,3.07,0
+Rouen,2026-05-16 09:00:00,11.96,10.93,66,light rain,4.81,0.42
+Rouen,2026-05-16 12:00:00,12.78,11.63,58,light rain,6.1,0.17
+Rouen,2026-05-16 15:00:00,11.8,10.81,68,overcast clouds,3.46,0
+Rouen,2026-05-16 18:00:00,10.58,9.81,81,overcast clouds,1.74,0
+Rouen,2026-05-16 21:00:00,10.47,9.87,88,light rain,3.62,0.12
+Rouen,2026-05-17 00:00:00,10.19,9.75,95,overcast clouds,3.36,0
+Rouen,2026-05-17 03:00:00,10.04,9.55,94,overcast clouds,3.63,0
+Rouen,2026-05-17 06:00:00,10.04,9.58,95,light rain,3.88,0.23
+Rouen,2026-05-17 09:00:00,13.15,12.27,67,overcast clouds,5.35,0
+Rouen,2026-05-17 12:00:00,15.09,14.22,60,overcast clouds,5.3,0
+Rouen,2026-05-17 15:00:00,13.42,12.78,75,light rain,4.81,0.83
+Rouen,2026-05-17 18:00:00,12.27,11.59,78,overcast clouds,3.28,0
+Rouen,2026-05-17 21:00:00,9.35,8.74,86,overcast clouds,1.66,0
+Rouen,2026-05-18 00:00:00,8.72,7.12,92,light rain,2.77,0.42
+Rouen,2026-05-18 03:00:00,8.02,6.91,93,light rain,1.97,0.33
+Rouen,2026-05-18 06:00:00,8.61,6.28,92,overcast clouds,4.02,0
+Rouen,2026-05-18 09:00:00,11.71,10.87,74,light rain,6.14,0.11
+Rouen,2026-05-18 12:00:00,12.93,12.32,78,light rain,5.67,0.7
+Rouen,2026-05-18 15:00:00,13.23,12.78,83,light rain,5.91,1.72
+Rouen,2026-05-18 18:00:00,12.02,11.6,89,light rain,4.1,1.15
+Rouen,2026-05-18 21:00:00,10.37,9.86,92,light rain,3.23,0.21
+Rouen,2026-05-19 00:00:00,9.89,8.23,95,light rain,3.27,0.43
+Rouen,2026-05-19 03:00:00,9.96,7.64,95,light rain,4.75,0.31
+Rouen,2026-05-19 06:00:00,10.71,10.34,96,light rain,5.45,0.39
+Rouen,2026-05-19 09:00:00,11.73,11.52,98,light rain,5.2,2.47
+Rouen,2026-05-19 12:00:00,15.57,15.56,91,light rain,5.41,1.39
+Rouen,2026-05-19 15:00:00,17.77,17.56,75,light rain,6.9,1.44
+Rouen,2026-05-19 18:00:00,15.77,15.44,78,light rain,5.16,0.17
+Rouen,2026-05-19 21:00:00,10.98,10.59,94,clear sky,2.64,0
+Rouen,2026-05-20 00:00:00,10.22,9.78,95,scattered clouds,2.54,0
+Rouen,2026-05-20 03:00:00,9.97,8.98,96,overcast clouds,2.23,0
+Rouen,2026-05-20 06:00:00,12.51,12.22,92,overcast clouds,2.5,0
+Rouen,2026-05-20 09:00:00,17.34,17.06,74,broken clouds,3.89,0
+Rouen,2026-05-20 12:00:00,18.74,18.39,66,broken clouds,4,0
+Paris,2026-05-15 15:00:00,11.77,10.65,63,light rain,4.12,1.64
+Paris,2026-05-15 18:00:00,11.21,10.14,67,light rain,2.06,0.98
+Paris,2026-05-15 21:00:00,9.66,9.22,75,overcast clouds,1.54,0
+Paris,2026-05-16 00:00:00,6.74,6.01,85,overcast clouds,1.44,0
+Paris,2026-05-16 03:00:00,5.74,4.45,89,few clouds,1.79,0
+Paris,2026-05-16 06:00:00,6.95,4.96,79,few clouds,2.84,0
+Paris,2026-05-16 09:00:00,12.68,11.39,53,few clouds,3.83,0
+Paris,2026-05-16 12:00:00,12.89,11.88,63,light rain,4.39,0.77
+Paris,2026-05-16 15:00:00,14.89,13.71,49,light rain,5.42,0.52
+Paris,2026-05-16 18:00:00,13.18,12.22,64,light rain,2.81,0.12
+Paris,2026-05-16 21:00:00,11.94,11.07,72,overcast clouds,2.51,0
+Paris,2026-05-17 00:00:00,11.38,10.66,80,overcast clouds,2.61,0
+Paris,2026-05-17 03:00:00,10.09,9.69,97,light rain,2.79,1.53
+Paris,2026-05-17 06:00:00,9.96,8.91,97,light rain,2.31,1.37
+Paris,2026-05-17 09:00:00,12.29,11.82,86,light rain,3.27,0.27
+Paris,2026-05-17 12:00:00,14.61,14.03,73,light rain,3.9,0.89
+Paris,2026-05-17 15:00:00,15.5,14.91,69,light rain,3.59,1.62
+Paris,2026-05-17 18:00:00,14.88,14.02,61,light rain,2.54,0.2
+Paris,2026-05-17 21:00:00,12.03,11.33,78,overcast clouds,1.01,0
+Paris,2026-05-18 00:00:00,11.48,10.77,80,overcast clouds,1.29,0
+Paris,2026-05-18 03:00:00,9.44,8.3,84,light rain,2.31,0.37
+Paris,2026-05-18 06:00:00,9.84,8.54,87,light rain,2.64,0.58
+Paris,2026-05-18 09:00:00,12.26,11.32,68,light rain,3.93,0.33
+Paris,2026-05-18 12:00:00,14.71,13.62,53,light rain,4.37,0.4
+Paris,2026-05-18 15:00:00,13.96,13.16,67,light rain,3.67,0.65
+Paris,2026-05-18 18:00:00,13.46,12.85,76,light rain,3.33,0.71
+Paris,2026-05-18 21:00:00,11.45,10.84,84,overcast clouds,2.04,0
+Paris,2026-05-19 00:00:00,11.39,10.75,83,overcast clouds,2.22,0
+Paris,2026-05-19 03:00:00,10.72,10.2,90,light rain,2.87,0.33
+Paris,2026-05-19 06:00:00,10.51,10.04,93,light rain,3.54,0.22
+Paris,2026-05-19 09:00:00,11.91,11.48,89,light rain,4.51,0.18
+Paris,2026-05-19 12:00:00,12.55,12.39,97,moderate rain,4.27,3.38
+Paris,2026-05-19 15:00:00,15.92,15.89,89,light rain,3.47,0.42
+Paris,2026-05-19 18:00:00,15.32,15.28,91,light rain,2.71,2.58
+Paris,2026-05-19 21:00:00,12.91,12.74,95,light rain,1.5,0.51
+Paris,2026-05-20 00:00:00,11.89,11.62,95,scattered clouds,1.66,0
+Paris,2026-05-20 03:00:00,11.02,10.66,95,overcast clouds,1.5,0
+Paris,2026-05-20 06:00:00,12.5,12.21,92,overcast clouds,1.29,0
+Paris,2026-05-20 09:00:00,17.4,17.08,72,broken clouds,2.11,0
+Paris,2026-05-20 12:00:00,20.23,19.72,54,light rain,3.09,0.12
+Amiens,2026-05-15 15:00:00,11.88,10.74,62,light rain,5.58,0.77
+Amiens,2026-05-15 18:00:00,11.54,10.45,65,overcast clouds,3.4,0
+Amiens,2026-05-15 21:00:00,9.29,7.93,77,overcast clouds,2.57,0
+Amiens,2026-05-16 00:00:00,6.33,5.39,85,overcast clouds,1.56,0
+Amiens,2026-05-16 03:00:00,5.3,3.94,91,broken clouds,1.79,0
+Amiens,2026-05-16 06:00:00,8.11,6.48,87,broken clouds,2.64,0
+Amiens,2026-05-16 09:00:00,11.32,10.47,75,light rain,5.08,0.56
+Amiens,2026-05-16 12:00:00,12.83,11.63,56,light rain,6.07,0.44
+Amiens,2026-05-16 15:00:00,13.31,12.24,59,broken clouds,6.53,0
+Amiens,2026-05-16 18:00:00,10.16,9.24,77,overcast clouds,2.84,0
+Amiens,2026-05-16 21:00:00,9.5,8.08,78,overcast clouds,2.72,0
+Amiens,2026-05-17 00:00:00,9.46,7.38,96,light rain,3.91,0.54
+Amiens,2026-05-17 03:00:00,9.7,7.74,96,light rain,3.78,0.46
+Amiens,2026-05-17 06:00:00,10.11,9.66,95,overcast clouds,4.63,0
+Amiens,2026-05-17 09:00:00,10.77,10.2,88,overcast clouds,5.21,0
+Amiens,2026-05-17 12:00:00,15.22,14.39,61,overcast clouds,6.23,0
+Amiens,2026-05-17 15:00:00,14.39,13.71,70,light rain,6.04,0.4
+Amiens,2026-05-17 18:00:00,11.68,11.12,85,light rain,3.31,0.62
+Amiens,2026-05-17 21:00:00,8.59,7.21,88,overcast clouds,2.42,0
+Amiens,2026-05-18 00:00:00,8.24,6.46,89,overcast clouds,2.9,0
+Amiens,2026-05-18 03:00:00,8.24,6.83,94,light rain,2.38,0.71
+Amiens,2026-05-18 06:00:00,9.08,7.1,89,overcast clouds,3.55,0
+Amiens,2026-05-18 09:00:00,11.76,10.98,76,light rain,5.94,0.23
+Amiens,2026-05-18 12:00:00,12.37,11.67,77,light rain,5.73,0.77
+Amiens,2026-05-18 15:00:00,13.14,12.57,79,light rain,4.52,1.35
+Amiens,2026-05-18 18:00:00,12.09,11.63,87,light rain,3.51,1.67
+Amiens,2026-05-18 21:00:00,8.74,7.07,95,light rain,2.89,0.33
+Amiens,2026-05-19 00:00:00,8.85,6.98,96,overcast clouds,3.26,0
+Amiens,2026-05-19 03:00:00,9.43,7.13,96,light rain,4.37,0.8
+Amiens,2026-05-19 06:00:00,9.91,7.15,96,light rain,5.92,1.19
+Amiens,2026-05-19 09:00:00,11.63,11.3,94,light rain,6.97,0.18
+Amiens,2026-05-19 12:00:00,12.37,12.17,96,light rain,6.21,1.7
+Amiens,2026-05-19 15:00:00,15.94,15.84,86,light rain,4.68,0.46
+Amiens,2026-05-19 18:00:00,15.14,14.98,87,light rain,4.55,1.25
+Amiens,2026-05-19 21:00:00,10.76,10.35,94,clear sky,3.19,0
+Amiens,2026-05-20 00:00:00,9.84,8.06,96,few clouds,3.48,0
+Amiens,2026-05-20 03:00:00,9.98,8.39,97,overcast clouds,3.17,0
+Amiens,2026-05-20 06:00:00,12.15,11.88,94,overcast clouds,3.45,0
+Amiens,2026-05-20 09:00:00,16.81,16.58,78,overcast clouds,4.65,0
+Amiens,2026-05-20 12:00:00,18.18,17.91,71,light rain,4.39,0.24
+Lille,2026-05-15 15:00:00,13.35,12.41,64,light rain,5.69,0.31
+Lille,2026-05-15 18:00:00,12.43,11.37,63,broken clouds,3.72,0
+Lille,2026-05-15 21:00:00,10.15,9.1,72,overcast clouds,1.68,0
+Lille,2026-05-16 00:00:00,6.17,6.17,80,overcast clouds,1.04,0
+Lille,2026-05-16 03:00:00,4.96,2.8,90,scattered clouds,2.56,0
+Lille,2026-05-16 06:00:00,8.64,6.84,83,scattered clouds,3.06,0
+Lille,2026-05-16 09:00:00,11.45,10.24,61,broken clouds,3.37,0
+Lille,2026-05-16 12:00:00,13.3,12.1,54,light rain,4.16,0.44
+Lille,2026-05-16 15:00:00,13.97,12.55,43,broken clouds,6.37,0
+Lille,2026-05-16 18:00:00,11.67,10.43,59,broken clouds,4.58,0
+Lille,2026-05-16 21:00:00,8.08,6.26,85,scattered clouds,2.92,0
+Lille,2026-05-17 00:00:00,8.94,6.97,90,light rain,3.47,0.55
+Lille,2026-05-17 03:00:00,9.2,7.25,96,light rain,3.54,0.65
+Lille,2026-05-17 06:00:00,10.53,10.04,92,light rain,4.2,0.26
+Lille,2026-05-17 09:00:00,14,13.23,68,light rain,6.5,0.19
+Lille,2026-05-17 12:00:00,15.85,14.87,53,light rain,6.27,0.15
+Lille,2026-05-17 15:00:00,15.92,14.9,51,overcast clouds,5.28,0
+Lille,2026-05-17 18:00:00,13.49,12.54,63,overcast clouds,4.13,0
+Lille,2026-05-17 21:00:00,10.51,9.57,75,overcast clouds,2.73,0
+Lille,2026-05-18 00:00:00,9.63,8.09,75,overcast clouds,2.96,0
+Lille,2026-05-18 03:00:00,8.93,7.23,83,light rain,3,0.16
+Lille,2026-05-18 06:00:00,9.58,8.1,80,overcast clouds,2.84,0
+Lille,2026-05-18 09:00:00,12.91,11.98,66,light rain,5.59,0.37
+Lille,2026-05-18 12:00:00,11.76,11.05,79,light rain,3.75,1.5
+Lille,2026-05-18 15:00:00,12.63,11.99,78,light rain,4.38,1.6
+Lille,2026-05-18 18:00:00,12.38,11.79,81,light rain,3.58,1.02
+Lille,2026-05-18 21:00:00,9.19,7.64,93,broken clouds,2.84,0
+Lille,2026-05-19 00:00:00,8.45,6.64,95,broken clouds,3.02,0
+Lille,2026-05-19 03:00:00,9.25,7.21,94,overcast clouds,3.74,0
+Lille,2026-05-19 06:00:00,9.69,7.21,95,light rain,4.97,1.02
+Lille,2026-05-19 09:00:00,10.54,10.05,92,light rain,6.73,0.44
+Lille,2026-05-19 12:00:00,11.85,11.55,94,light rain,5.76,0.85
+Lille,2026-05-19 15:00:00,13.99,13.79,90,overcast clouds,5.79,0
+Lille,2026-05-19 18:00:00,14.77,14.5,84,light rain,4.63,0.81
+Lille,2026-05-19 21:00:00,10.92,10.5,93,broken clouds,3.91,0
+Lille,2026-05-20 00:00:00,10.6,10.22,96,scattered clouds,3.93,0
+Lille,2026-05-20 03:00:00,11.97,11.65,93,broken clouds,4.53,0
+Lille,2026-05-20 06:00:00,12.28,11.97,92,overcast clouds,3.35,0
+Lille,2026-05-20 09:00:00,17.1,16.69,70,overcast clouds,4.91,0
+Lille,2026-05-20 12:00:00,18.35,17.86,62,overcast clouds,5.72,0
+Strasbourg,2026-05-15 15:00:00,12.29,11.35,68,light rain,3.77,1.45
+Strasbourg,2026-05-15 18:00:00,11.98,11.11,72,light rain,1.59,1.08
+Strasbourg,2026-05-15 21:00:00,9.56,8.9,83,light rain,1.75,0.85
+Strasbourg,2026-05-16 00:00:00,6.75,6.09,93,scattered clouds,1.38,0
+Strasbourg,2026-05-16 03:00:00,5.67,5.67,95,light rain,1.18,0.14
+Strasbourg,2026-05-16 06:00:00,8.68,8.08,94,light rain,1.56,0.37
+Strasbourg,2026-05-16 09:00:00,8.84,8.06,82,light rain,1.76,0.46
+Strasbourg,2026-05-16 12:00:00,12.27,11.25,65,light rain,1.69,1.25
+Strasbourg,2026-05-16 15:00:00,13.15,12.19,64,light rain,1.97,0.94
+Strasbourg,2026-05-16 18:00:00,10.96,10.2,80,light rain,2.3,1.02
+Strasbourg,2026-05-16 21:00:00,7.54,6.7,89,light rain,1.63,0.33
+Strasbourg,2026-05-17 00:00:00,5.97,4.18,92,broken clouds,2.35,0
+Strasbourg,2026-05-17 03:00:00,4.66,2.58,94,scattered clouds,2.41,0
+Strasbourg,2026-05-17 06:00:00,7.29,5.27,89,scattered clouds,2.98,0
+Strasbourg,2026-05-17 09:00:00,12.63,11.72,68,overcast clouds,2.73,0
+Strasbourg,2026-05-17 12:00:00,15.54,14.56,54,overcast clouds,1.83,0
+Strasbourg,2026-05-17 15:00:00,16.72,15.83,53,overcast clouds,0.6,0
+Strasbourg,2026-05-17 18:00:00,14.46,13.74,68,overcast clouds,1.41,0
+Strasbourg,2026-05-17 21:00:00,10.27,9.34,76,overcast clouds,0.85,0
+Strasbourg,2026-05-18 00:00:00,8.35,7.17,83,broken clouds,2.12,0
+Strasbourg,2026-05-18 03:00:00,8.17,6.63,84,overcast clouds,2.54,0
+Strasbourg,2026-05-18 06:00:00,10.43,9.54,77,overcast clouds,1.38,0
+Strasbourg,2026-05-18 09:00:00,10.45,9.93,91,light rain,3.43,0.63
+Strasbourg,2026-05-18 12:00:00,13.01,12.53,83,light rain,3.12,1.16
+Strasbourg,2026-05-18 15:00:00,13.62,13.07,78,light rain,1.86,1.87
+Strasbourg,2026-05-18 18:00:00,12.32,11.83,85,light rain,0.52,1.4
+Strasbourg,2026-05-18 21:00:00,9.02,9.02,91,broken clouds,0.55,0
+Strasbourg,2026-05-19 00:00:00,7.55,7.55,93,broken clouds,1.05,0
+Strasbourg,2026-05-19 03:00:00,7.09,6.05,95,overcast clouds,1.75,0
+Strasbourg,2026-05-19 06:00:00,9.15,8.28,92,overcast clouds,1.91,0
+Strasbourg,2026-05-19 09:00:00,10.35,9.79,90,overcast clouds,2.69,0
+Strasbourg,2026-05-19 12:00:00,11.5,10.98,87,overcast clouds,2.95,0
+Strasbourg,2026-05-19 15:00:00,15.67,15.09,69,light rain,3.33,0.16
+Strasbourg,2026-05-19 18:00:00,12.85,12.38,84,light rain,1.73,0.1
+Strasbourg,2026-05-19 21:00:00,12.15,11.69,87,overcast clouds,2.1,0
+Strasbourg,2026-05-20 00:00:00,11.5,11.03,89,overcast clouds,2.52,0
+Strasbourg,2026-05-20 03:00:00,11,10.64,95,light rain,2.7,0.12
+Strasbourg,2026-05-20 06:00:00,12.16,11.94,96,light rain,1.37,0.73
+Strasbourg,2026-05-20 09:00:00,14.71,14.48,86,light rain,1.71,0.45
+Strasbourg,2026-05-20 12:00:00,17.56,17.28,73,light rain,1.18,0.93
+Chateau du Haut Koenigsbourg,2026-05-15 15:00:00,7.9,5.64,66,light rain,3.58,0.52
+Chateau du Haut Koenigsbourg,2026-05-15 18:00:00,8.05,6.97,68,light rain,1.95,0.12
+Chateau du Haut Koenigsbourg,2026-05-15 21:00:00,6,4.15,85,light rain,2.42,0.12
+Chateau du Haut Koenigsbourg,2026-05-16 00:00:00,3.67,1.67,95,clear sky,2.14,0
+Chateau du Haut Koenigsbourg,2026-05-16 03:00:00,2.67,1.02,95,scattered clouds,1.7,0
+Chateau du Haut Koenigsbourg,2026-05-16 06:00:00,5.7,5.7,87,light rain,0.68,0.1
+Chateau du Haut Koenigsbourg,2026-05-16 09:00:00,7.92,7.92,62,overcast clouds,1.02,0
+Chateau du Haut Koenigsbourg,2026-05-16 12:00:00,10.57,9.09,54,light rain,0.33,0.84
+Chateau du Haut Koenigsbourg,2026-05-16 15:00:00,11.41,10.07,56,light rain,0.43,1.15
+Chateau du Haut Koenigsbourg,2026-05-16 18:00:00,8.15,8.15,83,light rain,1.16,1.17
+Chateau du Haut Koenigsbourg,2026-05-16 21:00:00,4.07,1.91,93,few clouds,2.38,0
+Chateau du Haut Koenigsbourg,2026-05-17 00:00:00,3.11,1.36,92,scattered clouds,1.83,0
+Chateau du Haut Koenigsbourg,2026-05-17 03:00:00,2.2,0.49,92,few clouds,1.69,0
+Chateau du Haut Koenigsbourg,2026-05-17 06:00:00,5.89,5.89,86,scattered clouds,1.11,0
+Chateau du Haut Koenigsbourg,2026-05-17 09:00:00,11.55,10.25,57,overcast clouds,1.4,0
+Chateau du Haut Koenigsbourg,2026-05-17 12:00:00,13.29,12.01,51,overcast clouds,2.04,0
+Chateau du Haut Koenigsbourg,2026-05-17 15:00:00,13.38,12.16,53,overcast clouds,0.64,0
+Chateau du Haut Koenigsbourg,2026-05-17 18:00:00,11.65,10.67,69,broken clouds,1.5,0
+Chateau du Haut Koenigsbourg,2026-05-17 21:00:00,7.15,6.22,79,broken clouds,1.66,0
+Chateau du Haut Koenigsbourg,2026-05-18 00:00:00,6,4.91,78,overcast clouds,1.65,0
+Chateau du Haut Koenigsbourg,2026-05-18 03:00:00,7.16,6.35,74,overcast clouds,1.55,0
+Chateau du Haut Koenigsbourg,2026-05-18 06:00:00,8.68,8.68,78,overcast clouds,1.26,0
+Chateau du Haut Koenigsbourg,2026-05-18 09:00:00,9.01,8.62,92,light rain,1.41,0.55
+Chateau du Haut Koenigsbourg,2026-05-18 12:00:00,11.52,10.58,71,light rain,1.73,0.68
+Chateau du Haut Koenigsbourg,2026-05-18 15:00:00,11.75,10.86,72,light rain,2.17,1.38
+Chateau du Haut Koenigsbourg,2026-05-18 18:00:00,9.81,9.81,87,light rain,1.28,0.94
+Chateau du Haut Koenigsbourg,2026-05-18 21:00:00,6.08,4.63,93,overcast clouds,2,0
+Chateau du Haut Koenigsbourg,2026-05-19 00:00:00,5.02,4.04,91,overcast clouds,1.45,0
+Chateau du Haut Koenigsbourg,2026-05-19 03:00:00,5.45,5.45,90,overcast clouds,0.99,0
+Chateau du Haut Koenigsbourg,2026-05-19 06:00:00,7.06,7.06,89,overcast clouds,0.83,0
+Chateau du Haut Koenigsbourg,2026-05-19 09:00:00,8.1,8.1,91,light rain,0.75,0.15
+Chateau du Haut Koenigsbourg,2026-05-19 12:00:00,10.84,10.04,79,light rain,1.14,0.19
+Chateau du Haut Koenigsbourg,2026-05-19 15:00:00,11.78,11.13,81,light rain,0.66,0.41
+Chateau du Haut Koenigsbourg,2026-05-19 18:00:00,10.42,9.79,87,light rain,1.09,0.1
+Chateau du Haut Koenigsbourg,2026-05-19 21:00:00,9.52,9.12,90,light rain,1.48,0.12
+Chateau du Haut Koenigsbourg,2026-05-20 00:00:00,9.69,9.38,93,light rain,1.42,0.12
+Chateau du Haut Koenigsbourg,2026-05-20 03:00:00,9.58,9.08,95,overcast clouds,1.59,0
+Chateau du Haut Koenigsbourg,2026-05-20 06:00:00,9.92,9.92,97,light rain,1.14,1.39
+Chateau du Haut Koenigsbourg,2026-05-20 09:00:00,11.95,11.52,89,light rain,0.72,1.23
+Chateau du Haut Koenigsbourg,2026-05-20 12:00:00,17.77,17.01,54,light rain,0.77,0.48
+Colmar,2026-05-15 15:00:00,10.94,9.81,66,light rain,2.97,1.03
+Colmar,2026-05-15 18:00:00,10.92,9.84,68,light rain,2,0.3
+Colmar,2026-05-15 21:00:00,8.61,7.24,82,scattered clouds,2.42,0
+Colmar,2026-05-16 00:00:00,6.03,4.66,92,clear sky,1.91,0
+Colmar,2026-05-16 03:00:00,5.07,4.18,93,few clouds,1.39,0
+Colmar,2026-05-16 06:00:00,8.01,8.01,84,broken clouds,0.38,0
+Colmar,2026-05-16 09:00:00,10.09,8.93,68,light rain,1.12,0.14
+Colmar,2026-05-16 12:00:00,13.06,11.91,57,light rain,1.39,0.87
+Colmar,2026-05-16 15:00:00,13.46,12.53,64,light rain,1.6,1.19
+Colmar,2026-05-16 18:00:00,11.09,10.32,79,light rain,0.64,1.21
+Colmar,2026-05-16 21:00:00,7,5.46,91,light rain,2.27,0.12
+Colmar,2026-05-17 00:00:00,5.56,4.57,92,scattered clouds,1.51,0
+Colmar,2026-05-17 03:00:00,4.75,3.41,91,few clouds,1.7,0
+Colmar,2026-05-17 06:00:00,8.44,7.89,85,scattered clouds,1.48,0
+Colmar,2026-05-17 09:00:00,14.04,13.01,58,overcast clouds,2.18,0
+Colmar,2026-05-17 12:00:00,16.51,15.44,47,overcast clouds,2.94,0
+Colmar,2026-05-17 15:00:00,17.09,16.08,47,overcast clouds,1.04,0
+Colmar,2026-05-17 18:00:00,14.14,13.46,71,broken clouds,1.88,0
+Colmar,2026-05-17 21:00:00,9.51,8.8,80,broken clouds,1.8,0
+Colmar,2026-05-18 00:00:00,8.59,7.77,76,broken clouds,1.76,0
+Colmar,2026-05-18 03:00:00,9.39,8.56,75,overcast clouds,1.91,0
+Colmar,2026-05-18 06:00:00,11.22,10.43,78,overcast clouds,2.5,0
+Colmar,2026-05-18 09:00:00,11.25,10.86,93,light rain,2.15,1.08
+Colmar,2026-05-18 12:00:00,12.42,11.94,85,light rain,1.81,1.34
+Colmar,2026-05-18 15:00:00,14.82,14.21,71,light rain,1.34,1.34
+Colmar,2026-05-18 18:00:00,13.21,12.65,79,light rain,0.75,0.86
+Colmar,2026-05-18 21:00:00,8.98,8.16,90,light rain,1.83,0.16
+Colmar,2026-05-19 00:00:00,7.89,7.89,88,overcast clouds,1.3,0
+Colmar,2026-05-19 03:00:00,7.65,7.65,89,overcast clouds,0.78,0
+Colmar,2026-05-19 06:00:00,9.85,9.85,85,overcast clouds,0.94,0
+Colmar,2026-05-19 09:00:00,10.63,10.1,90,light rain,1.28,0.17
+Colmar,2026-05-19 12:00:00,14.85,14.19,69,light rain,2.79,0.17
+Colmar,2026-05-19 15:00:00,15.86,15.22,66,light rain,1.95,0.23
+Colmar,2026-05-19 18:00:00,13.27,12.82,83,overcast clouds,1.04,0
+Colmar,2026-05-19 21:00:00,12.27,11.72,83,overcast clouds,1.36,0
+Colmar,2026-05-20 00:00:00,12.27,11.93,91,overcast clouds,1.52,0
+Colmar,2026-05-20 03:00:00,12.21,11.89,92,overcast clouds,1.68,0
+Colmar,2026-05-20 06:00:00,12.87,12.64,93,light rain,1.05,0.82
+Colmar,2026-05-20 09:00:00,15.13,14.97,87,light rain,0.17,2.58
+Colmar,2026-05-20 12:00:00,19.1,18.76,65,light rain,1.48,0.99
+Eguisheim,2026-05-15 15:00:00,10.9,9.77,66,light rain,2.63,1.22
+Eguisheim,2026-05-15 18:00:00,10.78,9.72,69,light rain,1.91,0.41
+Eguisheim,2026-05-15 21:00:00,8.32,6.92,82,scattered clouds,2.39,0
+Eguisheim,2026-05-16 00:00:00,5.6,4.25,92,clear sky,1.82,0
+Eguisheim,2026-05-16 03:00:00,4.66,3.63,93,scattered clouds,1.45,0
+Eguisheim,2026-05-16 06:00:00,7.55,7.55,84,broken clouds,0.14,0
+Eguisheim,2026-05-16 09:00:00,9.9,9.9,68,light rain,0.92,0.18
+Eguisheim,2026-05-16 12:00:00,12.8,11.62,57,light rain,1.4,0.94
+Eguisheim,2026-05-16 15:00:00,12.98,12.06,66,light rain,1.68,1.25
+Eguisheim,2026-05-16 18:00:00,10.71,9.9,79,light rain,0.67,1.21
+Eguisheim,2026-05-16 21:00:00,6.76,5.24,91,light rain,2.19,0.13
+Eguisheim,2026-05-17 00:00:00,5.32,4.25,92,scattered clouds,1.55,0
+Eguisheim,2026-05-17 03:00:00,4.61,3.36,91,few clouds,1.61,0
+Eguisheim,2026-05-17 06:00:00,8.34,7.87,85,scattered clouds,1.4,0
+Eguisheim,2026-05-17 09:00:00,13.81,12.73,57,overcast clouds,2.26,0
+Eguisheim,2026-05-17 12:00:00,16.51,15.37,44,overcast clouds,2.83,0
+Eguisheim,2026-05-17 15:00:00,17.13,16.05,44,overcast clouds,0.9,0
+Eguisheim,2026-05-17 18:00:00,13.79,13.1,72,broken clouds,1.73,0
+Eguisheim,2026-05-17 21:00:00,9.27,8.44,79,broken clouds,1.89,0
+Eguisheim,2026-05-18 00:00:00,8.5,7.68,74,broken clouds,1.75,0
+Eguisheim,2026-05-18 03:00:00,9.23,8.4,75,overcast clouds,1.88,0
+Eguisheim,2026-05-18 06:00:00,10.88,10.06,78,overcast clouds,2.56,0
+Eguisheim,2026-05-18 09:00:00,10.79,10.38,94,light rain,1.97,1.29
+Eguisheim,2026-05-18 12:00:00,11.82,11.36,88,light rain,1.76,1.48
+Eguisheim,2026-05-18 15:00:00,14.53,13.89,71,light rain,1.4,1.28
+Eguisheim,2026-05-18 18:00:00,12.96,12.35,78,light rain,0.53,0.68
+Eguisheim,2026-05-18 21:00:00,8.68,7.83,90,light rain,1.81,0.15
+Eguisheim,2026-05-19 00:00:00,7.76,7.76,87,broken clouds,1.32,0
+Eguisheim,2026-05-19 03:00:00,7.47,7.47,88,overcast clouds,0.66,0
+Eguisheim,2026-05-19 06:00:00,9.75,9.75,83,overcast clouds,0.92,0
+Eguisheim,2026-05-19 09:00:00,10.41,9.86,90,light rain,1.25,0.19
+Eguisheim,2026-05-19 12:00:00,14.96,14.23,66,light rain,2.87,0.18
+Eguisheim,2026-05-19 15:00:00,15.94,15.21,62,light rain,1.99,0.16
+Eguisheim,2026-05-19 18:00:00,13.02,12.49,81,overcast clouds,1.05,0
+Eguisheim,2026-05-19 21:00:00,11.95,11.34,82,overcast clouds,1.42,0
+Eguisheim,2026-05-20 00:00:00,12.05,11.69,91,overcast clouds,1.42,0
+Eguisheim,2026-05-20 03:00:00,11.99,11.65,92,overcast clouds,1.61,0
+Eguisheim,2026-05-20 06:00:00,12.64,12.39,93,light rain,0.92,0.78
+Eguisheim,2026-05-20 09:00:00,15.11,14.92,86,light rain,0.33,2.85
+Eguisheim,2026-05-20 12:00:00,18.48,18.16,68,light rain,1.7,1.17
+Besancon,2026-05-15 15:00:00,11.76,10.98,76,light rain,1.93,0.66
+Besancon,2026-05-15 18:00:00,11.07,10.32,80,light rain,1.18,0.86
+Besancon,2026-05-15 21:00:00,7.85,7.85,88,light rain,0.81,0.2
+Besancon,2026-05-16 00:00:00,4.18,3.05,96,scattered clouds,1.47,0
+Besancon,2026-05-16 03:00:00,4.32,3.01,97,broken clouds,1.62,0
+Besancon,2026-05-16 06:00:00,7.72,7.14,97,light rain,1.42,0.81
+Besancon,2026-05-16 09:00:00,9.29,8.53,81,light rain,1.81,0.37
+Besancon,2026-05-16 12:00:00,13.98,12.74,50,light rain,1.67,0.57
+Besancon,2026-05-16 15:00:00,14.08,12.93,53,light rain,2.8,0.41
+Besancon,2026-05-16 18:00:00,9.86,8.87,91,light rain,2.2,0.85
+Besancon,2026-05-16 21:00:00,6.81,6.07,92,light rain,1.45,0.2
+Besancon,2026-05-17 00:00:00,4.76,3.85,94,broken clouds,1.37,0
+Besancon,2026-05-17 03:00:00,3.67,3.67,94,few clouds,1.27,0
+Besancon,2026-05-17 06:00:00,7.05,7.05,92,scattered clouds,0.8,0
+Besancon,2026-05-17 09:00:00,13,12,63,overcast clouds,1.84,0
+Besancon,2026-05-17 12:00:00,16.1,15.02,48,overcast clouds,3.43,0
+Besancon,2026-05-17 15:00:00,16.43,15.51,53,broken clouds,3.35,0
+Besancon,2026-05-17 18:00:00,13.7,13.19,79,broken clouds,0.83,0
+Besancon,2026-05-17 21:00:00,8.79,8.08,91,broken clouds,1.68,0
+Besancon,2026-05-18 00:00:00,8.04,7.46,85,overcast clouds,1.46,0
+Besancon,2026-05-18 03:00:00,9.4,8.74,85,light rain,1.72,0.13
+Besancon,2026-05-18 06:00:00,10.28,9.87,96,light rain,3.25,0.35
+Besancon,2026-05-18 09:00:00,10.43,10.11,99,light rain,3.31,1.59
+Besancon,2026-05-18 12:00:00,13.15,12.87,90,light rain,4.19,1.32
+Besancon,2026-05-18 15:00:00,15.09,14.51,71,light rain,3.48,1.18
+Besancon,2026-05-18 18:00:00,12.02,11.55,87,light rain,1.39,0.64
+Besancon,2026-05-18 21:00:00,8.07,8.07,92,overcast clouds,1.13,0
+Besancon,2026-05-19 00:00:00,8.25,7.76,91,overcast clouds,1.41,0
+Besancon,2026-05-19 03:00:00,9.06,9.06,95,light rain,1.32,0.13
+Besancon,2026-05-19 06:00:00,10.13,9.68,95,overcast clouds,1.27,0
+Besancon,2026-05-19 09:00:00,11.57,11.05,87,overcast clouds,1.11,0
+Besancon,2026-05-19 12:00:00,16.73,15.84,53,overcast clouds,3.11,0
+Besancon,2026-05-19 15:00:00,18.38,17.71,55,overcast clouds,3.35,0
+Besancon,2026-05-19 18:00:00,12.5,12.34,97,light rain,2.12,1.23
+Besancon,2026-05-19 21:00:00,11.63,11.41,98,light rain,1.91,0.23
+Besancon,2026-05-20 00:00:00,11.86,11.66,98,light rain,2.06,0.14
+Besancon,2026-05-20 03:00:00,11.67,11.45,98,light rain,1.68,0.18
+Besancon,2026-05-20 06:00:00,12.4,12.25,98,light rain,1.72,0.13
+Besancon,2026-05-20 09:00:00,14.19,14.15,95,light rain,1.8,0.36
+Besancon,2026-05-20 12:00:00,18.76,18.36,64,light rain,1.92,0.75
+Dijon,2026-05-15 15:00:00,13.8,12.23,38,light rain,4.22,1.01
+Dijon,2026-05-15 18:00:00,12.44,11.05,50,light rain,2.06,0.42
+Dijon,2026-05-15 21:00:00,8.69,7.21,74,light rain,2.59,0.45
+Dijon,2026-05-16 00:00:00,7.33,5.94,92,broken clouds,2.16,0
+Dijon,2026-05-16 03:00:00,7.42,6.01,94,overcast clouds,2.2,0
+Dijon,2026-05-16 06:00:00,7.81,7.81,88,overcast clouds,1.15,0
+Dijon,2026-05-16 09:00:00,11.61,10.42,61,few clouds,0.97,0
+Dijon,2026-05-16 12:00:00,12.86,11.72,58,light rain,1.99,0.68
+Dijon,2026-05-16 15:00:00,12.7,11.8,68,light rain,3,0.91
+Dijon,2026-05-16 18:00:00,11.25,10.52,80,light rain,1.93,0.72
+Dijon,2026-05-16 21:00:00,7.13,6.16,82,broken clouds,1.69,0
+Dijon,2026-05-17 00:00:00,5.02,3.97,84,scattered clouds,1.5,0
+Dijon,2026-05-17 03:00:00,4.37,4.37,83,scattered clouds,1.2,0
+Dijon,2026-05-17 06:00:00,7.67,7.67,81,broken clouds,1.29,0
+Dijon,2026-05-17 09:00:00,11.84,10.91,70,overcast clouds,2.63,0
+Dijon,2026-05-17 12:00:00,15.11,14.32,63,overcast clouds,3.22,0
+Dijon,2026-05-17 15:00:00,16.25,15.5,60,light rain,3.59,0.13
+Dijon,2026-05-17 18:00:00,13.53,13.11,83,light rain,2.04,0.48
+Dijon,2026-05-17 21:00:00,10.26,9.61,87,light rain,1.86,0.13
+Dijon,2026-05-18 00:00:00,10.28,9.71,90,light rain,0.94,0.2
+Dijon,2026-05-18 03:00:00,9.35,8.14,95,light rain,2.38,0.37
+Dijon,2026-05-18 06:00:00,9.98,9.17,97,light rain,2,1.94
+Dijon,2026-05-18 09:00:00,13.09,12.44,76,light rain,5.25,0.4
+Dijon,2026-05-18 12:00:00,15.59,14.61,54,overcast clouds,4.25,0
+Dijon,2026-05-18 15:00:00,15.06,14.32,65,light rain,4.22,0.32
+Dijon,2026-05-18 18:00:00,12.58,12.01,81,light rain,3.43,0.24
+Dijon,2026-05-18 21:00:00,9.78,9.26,88,overcast clouds,1.64,0
+Dijon,2026-05-19 00:00:00,9.56,9.24,90,overcast clouds,1.41,0
+Dijon,2026-05-19 03:00:00,9.3,8.62,87,overcast clouds,1.73,0
+Dijon,2026-05-19 06:00:00,10.07,9.33,84,overcast clouds,1.54,0
+Dijon,2026-05-19 09:00:00,11.65,10.91,78,overcast clouds,2.41,0
+Dijon,2026-05-19 12:00:00,15.24,14.62,69,overcast clouds,4.07,0
+Dijon,2026-05-19 15:00:00,13.39,13.19,92,light rain,3.16,0.58
+Dijon,2026-05-19 18:00:00,13.71,13.51,91,light rain,2.55,0.12
+Dijon,2026-05-19 21:00:00,10.98,10.61,95,light rain,2.21,0.13
+Dijon,2026-05-20 00:00:00,12.4,12.18,95,overcast clouds,2.14,0
+Dijon,2026-05-20 03:00:00,11.26,10.92,95,overcast clouds,1.35,0
+Dijon,2026-05-20 06:00:00,12.24,11.97,94,overcast clouds,1.36,0
+Dijon,2026-05-20 09:00:00,16.64,16.24,72,overcast clouds,1.67,0
+Dijon,2026-05-20 12:00:00,19.22,18.82,62,overcast clouds,1.89,0
+Annecy,2026-05-15 15:00:00,7.08,7.08,87,light rain,1.01,0.59
+Annecy,2026-05-15 18:00:00,8.15,8.15,89,light rain,1.2,1.05
+Annecy,2026-05-15 21:00:00,7.63,7.63,93,light rain,1,0.19
+Annecy,2026-05-16 00:00:00,6.23,6.23,97,few clouds,1.11,0
+Annecy,2026-05-16 03:00:00,5.53,5.53,97,few clouds,0.67,0
+Annecy,2026-05-16 06:00:00,9.04,9.04,97,scattered clouds,0.55,0
+Annecy,2026-05-16 09:00:00,9.23,8.61,77,light rain,1.66,0.23
+Annecy,2026-05-16 12:00:00,10.69,9.67,71,light rain,0.67,0.73
+Annecy,2026-05-16 15:00:00,14.23,12.91,46,light rain,1.17,0.34
+Annecy,2026-05-16 18:00:00,10.8,9.82,72,broken clouds,1.36,0
+Annecy,2026-05-16 21:00:00,5.65,4.77,86,scattered clouds,1.44,0
+Annecy,2026-05-17 00:00:00,3.92,2.59,89,few clouds,1.59,0
+Annecy,2026-05-17 03:00:00,2.96,1.59,89,clear sky,1.52,0
+Annecy,2026-05-17 06:00:00,7.36,7.36,73,few clouds,0.39,0
+Annecy,2026-05-17 09:00:00,14.12,12.97,53,overcast clouds,1.17,0
+Annecy,2026-05-17 12:00:00,17.8,16.65,39,broken clouds,1.63,0
+Annecy,2026-05-17 15:00:00,17.95,16.77,37,few clouds,2.26,0
+Annecy,2026-05-17 18:00:00,13.52,12.76,70,few clouds,1.15,0
+Annecy,2026-05-17 21:00:00,9.29,8.8,74,broken clouds,1.54,0
+Annecy,2026-05-18 00:00:00,8.26,7.53,79,broken clouds,1.62,0
+Annecy,2026-05-18 03:00:00,7.38,6.49,84,overcast clouds,1.65,0
+Annecy,2026-05-18 06:00:00,10.23,9.68,91,light rain,1.1,0.5
+Annecy,2026-05-18 09:00:00,13.82,13.45,84,light rain,1.59,1.04
+Annecy,2026-05-18 12:00:00,14.85,14.45,79,light rain,2.45,2.26
+Annecy,2026-05-18 15:00:00,15.81,15.14,65,light rain,1.4,1.33
+Annecy,2026-05-18 18:00:00,12.46,12.11,90,light rain,1.15,1.45
+Annecy,2026-05-18 21:00:00,9.83,9.83,93,light rain,0.6,0.59
+Annecy,2026-05-19 00:00:00,10.19,9.72,94,light rain,0.59,0.13
+Annecy,2026-05-19 03:00:00,9.33,9.33,97,overcast clouds,0.76,0
+Annecy,2026-05-19 06:00:00,10.26,9.82,95,light rain,0.29,0.1
+Annecy,2026-05-19 09:00:00,11.35,10.92,91,light rain,0.14,0.34
+Annecy,2026-05-19 12:00:00,18.48,17.85,56,overcast clouds,0.68,0
+Annecy,2026-05-19 15:00:00,18.92,18.23,52,broken clouds,1.21,0
+Annecy,2026-05-19 18:00:00,15.35,14.93,76,overcast clouds,1.27,0
+Annecy,2026-05-19 21:00:00,12.32,12.11,96,light rain,1.53,0.6
+Annecy,2026-05-20 00:00:00,12.13,11.96,98,light rain,0.23,0.7
+Annecy,2026-05-20 03:00:00,11.97,11.81,99,light rain,0.53,0.22
+Annecy,2026-05-20 06:00:00,12.49,12.38,99,light rain,1.32,0.11
+Annecy,2026-05-20 09:00:00,16.61,16.26,74,light rain,2.34,0.36
+Annecy,2026-05-20 12:00:00,19.79,19.21,53,light rain,2.73,0.3
+Grenoble,2026-05-15 15:00:00,9.87,8.87,92,light rain,2.22,0.92
+Grenoble,2026-05-15 18:00:00,10.41,9.88,91,light rain,2.29,0.86
+Grenoble,2026-05-15 21:00:00,9.65,9.01,96,light rain,1.74,0.16
+Grenoble,2026-05-16 00:00:00,7.68,7.1,98,scattered clouds,1.42,0
+Grenoble,2026-05-16 03:00:00,6.83,6.21,97,broken clouds,1.36,0
+Grenoble,2026-05-16 06:00:00,10.7,10.28,94,broken clouds,1.45,0
+Grenoble,2026-05-16 09:00:00,8.66,7.41,87,light rain,2.27,0.13
+Grenoble,2026-05-16 12:00:00,12.6,11.59,64,light rain,2.72,0.19
+Grenoble,2026-05-16 15:00:00,15.43,14.2,45,scattered clouds,3.18,0
+Grenoble,2026-05-16 18:00:00,11.93,11.14,75,scattered clouds,2.07,0
+Grenoble,2026-05-16 21:00:00,6.9,6.9,94,clear sky,1.12,0
+Grenoble,2026-05-17 00:00:00,5.94,5.94,90,clear sky,0.98,0
+Grenoble,2026-05-17 03:00:00,5.16,5.16,87,clear sky,1.1,0
+Grenoble,2026-05-17 06:00:00,9.12,9.12,71,scattered clouds,0.11,0
+Grenoble,2026-05-17 09:00:00,16.1,15.02,48,overcast clouds,1.65,0
+Grenoble,2026-05-17 12:00:00,19.73,18.83,41,broken clouds,1.88,0
+Grenoble,2026-05-17 15:00:00,19.65,18.87,46,scattered clouds,2.93,0
+Grenoble,2026-05-17 18:00:00,15.47,14.95,72,broken clouds,1.32,0
+Grenoble,2026-05-17 21:00:00,12.38,11.74,79,overcast clouds,1.19,0
+Grenoble,2026-05-18 00:00:00,10.15,9.54,89,overcast clouds,1.71,0
+Grenoble,2026-05-18 03:00:00,9.54,8.97,89,overcast clouds,1.65,0
+Grenoble,2026-05-18 06:00:00,12.34,11.72,80,light rain,1.13,0.1
+Grenoble,2026-05-18 09:00:00,17.28,16.79,66,light rain,1.61,0.68
+Grenoble,2026-05-18 12:00:00,18.35,17.89,63,light rain,1.76,1.29
+Grenoble,2026-05-18 15:00:00,19.56,18.93,52,light rain,1.7,1.22
+Grenoble,2026-05-18 18:00:00,14.63,14.37,85,light rain,1.58,1.41
+Grenoble,2026-05-18 21:00:00,12.25,12.01,95,light rain,0.97,0.64
+Grenoble,2026-05-19 00:00:00,11.92,11.7,97,light rain,1.48,1.15
+Grenoble,2026-05-19 03:00:00,10.75,10.44,98,overcast clouds,0.49,0
+Grenoble,2026-05-19 06:00:00,12.11,11.83,94,overcast clouds,0.57,0
+Grenoble,2026-05-19 09:00:00,14.41,13.97,79,overcast clouds,1.65,0
+Grenoble,2026-05-19 12:00:00,19.98,19.34,50,broken clouds,2.49,0
+Grenoble,2026-05-19 15:00:00,21.13,20.6,50,few clouds,2.56,0
+Grenoble,2026-05-19 18:00:00,17.24,17.03,77,scattered clouds,1.86,0
+Grenoble,2026-05-19 21:00:00,14.36,14.23,91,broken clouds,1.42,0
+Grenoble,2026-05-20 00:00:00,13.83,13.72,94,overcast clouds,1.56,0
+Grenoble,2026-05-20 03:00:00,13.4,13.33,97,overcast clouds,1.44,0
+Grenoble,2026-05-20 06:00:00,14.06,13.92,92,light rain,1.67,0.11
+Grenoble,2026-05-20 09:00:00,17.62,17.4,75,light rain,2.79,0.21
+Grenoble,2026-05-20 12:00:00,19.2,18.85,64,light rain,2.74,0.24
+Lyon,2026-05-15 15:00:00,11.02,9.98,69,light rain,4.03,0.6
+Lyon,2026-05-15 18:00:00,10.93,10.04,75,light rain,4.16,2.16
+Lyon,2026-05-15 21:00:00,9.01,8.01,84,light rain,2.03,0.38
+Lyon,2026-05-16 00:00:00,6.33,5.08,92,light rain,1.84,0.11
+Lyon,2026-05-16 03:00:00,5.51,4.74,93,scattered clouds,1.34,0
+Lyon,2026-05-16 06:00:00,9.09,9.09,96,light rain,0.56,0.79
+Lyon,2026-05-16 09:00:00,10.57,9.75,79,light rain,2.03,0.56
+Lyon,2026-05-16 12:00:00,12.8,11.83,65,light rain,2.32,1.09
+Lyon,2026-05-16 15:00:00,14.43,13.44,58,light rain,2.79,1.14
+Lyon,2026-05-16 18:00:00,13.29,12.4,66,broken clouds,1.35,0
+Lyon,2026-05-16 21:00:00,8.89,8.32,76,clear sky,1.56,0
+Lyon,2026-05-17 00:00:00,7.44,7.44,79,clear sky,1.17,0
+Lyon,2026-05-17 03:00:00,6.55,6.55,81,scattered clouds,0.8,0
+Lyon,2026-05-17 06:00:00,8.59,8.59,74,broken clouds,0.04,0
+Lyon,2026-05-17 09:00:00,14.43,13.36,55,broken clouds,1.4,0
+Lyon,2026-05-17 12:00:00,17.81,16.93,49,broken clouds,1.95,0
+Lyon,2026-05-17 15:00:00,18.18,17.36,50,broken clouds,0.29,0
+Lyon,2026-05-17 18:00:00,16.37,15.81,67,broken clouds,1.6,0
+Lyon,2026-05-17 21:00:00,12.34,11.59,75,scattered clouds,1.64,0
+Lyon,2026-05-18 00:00:00,11.36,10.93,91,light rain,1.66,0.7
+Lyon,2026-05-18 03:00:00,9.74,9.74,94,light rain,1.12,0.51
+Lyon,2026-05-18 06:00:00,11.08,10.59,90,light rain,0.77,0.29
+Lyon,2026-05-18 09:00:00,15.18,14.71,75,light rain,0.66,0.6
+Lyon,2026-05-18 12:00:00,17.65,17.06,61,light rain,1.7,1.18
+Lyon,2026-05-18 15:00:00,17.63,17.12,64,light rain,3.52,1
+Lyon,2026-05-18 18:00:00,15.28,14.77,73,light rain,0.39,0.66
+Lyon,2026-05-18 21:00:00,12.36,11.84,84,light rain,2.05,0.25
+Lyon,2026-05-19 00:00:00,11.45,10.92,87,overcast clouds,1.57,0
+Lyon,2026-05-19 03:00:00,10.1,9.54,91,overcast clouds,1.21,0
+Lyon,2026-05-19 06:00:00,11.33,10.74,85,overcast clouds,0.85,0
+Lyon,2026-05-19 09:00:00,13.86,13.18,72,overcast clouds,1.25,0
+Lyon,2026-05-19 12:00:00,19.5,18.84,51,broken clouds,1.73,0
+Lyon,2026-05-19 15:00:00,19.54,19.09,59,broken clouds,0.79,0
+Lyon,2026-05-19 18:00:00,17.66,17.31,70,broken clouds,2.59,0
+Lyon,2026-05-19 21:00:00,13.7,13.37,86,overcast clouds,1.59,0
+Lyon,2026-05-20 00:00:00,12.8,12.43,88,overcast clouds,1.19,0
+Lyon,2026-05-20 03:00:00,13.75,13.32,82,overcast clouds,0.9,0
+Lyon,2026-05-20 06:00:00,14.26,13.83,80,overcast clouds,1.62,0
+Lyon,2026-05-20 09:00:00,15.77,15.44,78,overcast clouds,2.94,0
+Lyon,2026-05-20 12:00:00,20.84,20.42,55,overcast clouds,3.88,0
+Gorges du Verdon,2026-05-15 15:00:00,14.98,13.66,43,light rain,4.81,0.26
+Gorges du Verdon,2026-05-15 18:00:00,13.26,11.84,46,broken clouds,4.94,0
+Gorges du Verdon,2026-05-15 21:00:00,10.29,9.12,67,scattered clouds,3.79,0
+Gorges du Verdon,2026-05-16 00:00:00,6.18,3.4,86,few clouds,3.84,0
+Gorges du Verdon,2026-05-16 03:00:00,5.36,2.54,84,scattered clouds,3.6,0
+Gorges du Verdon,2026-05-16 06:00:00,8.25,5.44,70,few clouds,4.91,0
+Gorges du Verdon,2026-05-16 09:00:00,10.03,8.11,39,clear sky,4.83,0
+Gorges du Verdon,2026-05-16 12:00:00,14.06,12.3,30,clear sky,5.62,0
+Gorges du Verdon,2026-05-16 15:00:00,14.51,12.83,31,clear sky,5.62,0
+Gorges du Verdon,2026-05-16 18:00:00,10.67,8.99,46,clear sky,3.03,0
+Gorges du Verdon,2026-05-16 21:00:00,5.53,3.82,63,clear sky,2.17,0
+Gorges du Verdon,2026-05-17 00:00:00,5.1,3.49,66,clear sky,1.99,0
+Gorges du Verdon,2026-05-17 03:00:00,4.99,3.19,61,clear sky,2.17,0
+Gorges du Verdon,2026-05-17 06:00:00,10.15,8.21,38,clear sky,1.01,0
+Gorges du Verdon,2026-05-17 09:00:00,15.4,13.65,25,clear sky,2.52,0
+Gorges du Verdon,2026-05-17 12:00:00,17.2,15.79,31,scattered clouds,4.5,0
+Gorges du Verdon,2026-05-17 15:00:00,14.79,13.34,39,overcast clouds,3.44,0
+Gorges du Verdon,2026-05-17 18:00:00,11.8,10.42,53,overcast clouds,1.99,0
+Gorges du Verdon,2026-05-17 21:00:00,6.45,6.45,78,few clouds,0.93,0
+Gorges du Verdon,2026-05-18 00:00:00,6.06,4.61,79,scattered clouds,1.99,0
+Gorges du Verdon,2026-05-18 03:00:00,5.91,4.67,82,overcast clouds,1.77,0
+Gorges du Verdon,2026-05-18 06:00:00,10.29,8.86,57,overcast clouds,0.59,0
+Gorges du Verdon,2026-05-18 09:00:00,15.64,14.33,41,few clouds,3.3,0
+Gorges du Verdon,2026-05-18 12:00:00,17.86,16.51,31,scattered clouds,5.58,0
+Gorges du Verdon,2026-05-18 15:00:00,17.21,15.9,35,scattered clouds,7.02,0
+Gorges du Verdon,2026-05-18 18:00:00,12.39,11.38,65,light rain,6.03,0.29
+Gorges du Verdon,2026-05-18 21:00:00,7.96,6,88,light rain,3.1,0.23
+Gorges du Verdon,2026-05-19 00:00:00,7.17,4.81,90,overcast clouds,3.48,0
+Gorges du Verdon,2026-05-19 03:00:00,6.04,4.43,87,broken clouds,2.16,0
+Gorges du Verdon,2026-05-19 06:00:00,9.78,9.07,70,broken clouds,1.84,0
+Gorges du Verdon,2026-05-19 09:00:00,14.04,12.88,53,overcast clouds,3.32,0
+Gorges du Verdon,2026-05-19 12:00:00,18.6,17.51,38,broken clouds,3.62,0
+Gorges du Verdon,2026-05-19 15:00:00,18.08,17.07,43,broken clouds,2.4,0
+Gorges du Verdon,2026-05-19 18:00:00,15.99,15,52,broken clouds,3.45,0
+Gorges du Verdon,2026-05-19 21:00:00,10.01,9.02,75,broken clouds,2.22,0
+Gorges du Verdon,2026-05-20 00:00:00,9.2,8.29,78,overcast clouds,1.97,0
+Gorges du Verdon,2026-05-20 03:00:00,8.13,7.05,80,broken clouds,1.96,0
+Gorges du Verdon,2026-05-20 06:00:00,13.35,12.28,59,scattered clouds,0.64,0
+Gorges du Verdon,2026-05-20 09:00:00,19.3,18.36,41,scattered clouds,2.4,0
+Gorges du Verdon,2026-05-20 12:00:00,19.4,18.41,39,broken clouds,3.12,0
+Bormes les Mimosas,2026-05-15 15:00:00,17.25,16.36,51,overcast clouds,9.15,0
+Bormes les Mimosas,2026-05-15 18:00:00,16.32,15.31,50,overcast clouds,9.02,0
+Bormes les Mimosas,2026-05-15 21:00:00,14.05,12.82,50,broken clouds,10.58,0
+Bormes les Mimosas,2026-05-16 00:00:00,11.53,10.15,54,scattered clouds,10.54,0
+Bormes les Mimosas,2026-05-16 03:00:00,10.75,9.13,48,clear sky,9.7,0
+Bormes les Mimosas,2026-05-16 06:00:00,12.39,10.96,49,clear sky,11.76,0
+Bormes les Mimosas,2026-05-16 09:00:00,15.25,13.93,42,clear sky,11.76,0
+Bormes les Mimosas,2026-05-16 12:00:00,18.03,16.8,35,clear sky,11.44,0
+Bormes les Mimosas,2026-05-16 15:00:00,18.35,17.1,33,clear sky,10.79,0
+Bormes les Mimosas,2026-05-16 18:00:00,16.34,15.13,42,clear sky,9.38,0
+Bormes les Mimosas,2026-05-16 21:00:00,13.84,12.48,46,clear sky,5.55,0
+Bormes les Mimosas,2026-05-17 00:00:00,11.01,9.65,57,clear sky,2.95,0
+Bormes les Mimosas,2026-05-17 03:00:00,9.4,7.78,61,clear sky,3.02,0
+Bormes les Mimosas,2026-05-17 06:00:00,12.4,11.13,55,clear sky,3.6,0
+Bormes les Mimosas,2026-05-17 09:00:00,17.71,16.89,52,few clouds,3.6,0
+Bormes les Mimosas,2026-05-17 12:00:00,18.54,17.6,44,few clouds,4.52,0
+Bormes les Mimosas,2026-05-17 15:00:00,17.71,16.76,47,overcast clouds,2.81,0
+Bormes les Mimosas,2026-05-17 18:00:00,15.4,14.56,60,broken clouds,1.09,0
+Bormes les Mimosas,2026-05-17 21:00:00,12.69,11.89,72,clear sky,1.16,0
+Bormes les Mimosas,2026-05-18 00:00:00,12.35,11.47,70,scattered clouds,2.03,0
+Bormes les Mimosas,2026-05-18 03:00:00,11.47,10.37,65,broken clouds,1.82,0
+Bormes les Mimosas,2026-05-18 06:00:00,13.8,12.85,62,broken clouds,1.25,0
+Bormes les Mimosas,2026-05-18 09:00:00,18.05,17.27,52,broken clouds,2.27,0
+Bormes les Mimosas,2026-05-18 12:00:00,19.27,18.71,56,scattered clouds,6.13,0
+Bormes les Mimosas,2026-05-18 15:00:00,20.53,19.92,49,broken clouds,9.31,0
+Bormes les Mimosas,2026-05-18 18:00:00,17.79,17.09,56,scattered clouds,8,0
+Bormes les Mimosas,2026-05-18 21:00:00,15.54,14.98,70,broken clouds,5.78,0
+Bormes les Mimosas,2026-05-19 00:00:00,15.39,14.86,72,overcast clouds,5.2,0
+Bormes les Mimosas,2026-05-19 03:00:00,14.91,14.08,62,broken clouds,3.67,0
+Bormes les Mimosas,2026-05-19 06:00:00,15.09,14.2,59,broken clouds,2.99,0
+Bormes les Mimosas,2026-05-19 09:00:00,18.91,18.03,45,overcast clouds,3.59,0
+Bormes les Mimosas,2026-05-19 12:00:00,21.87,21.18,41,broken clouds,5.67,0
+Bormes les Mimosas,2026-05-19 15:00:00,21.49,20.87,45,scattered clouds,5.37,0
+Bormes les Mimosas,2026-05-19 18:00:00,19.85,19.3,54,scattered clouds,4.38,0
+Bormes les Mimosas,2026-05-19 21:00:00,17.22,16.69,65,clear sky,2.89,0
+Bormes les Mimosas,2026-05-20 00:00:00,13.87,13.3,76,few clouds,2.53,0
+Bormes les Mimosas,2026-05-20 03:00:00,13.36,12.66,73,broken clouds,2.55,0
+Bormes les Mimosas,2026-05-20 06:00:00,15.43,14.73,65,broken clouds,2.57,0
+Bormes les Mimosas,2026-05-20 09:00:00,20.65,20.08,50,few clouds,0.9,0
+Bormes les Mimosas,2026-05-20 12:00:00,20.4,19.83,51,few clouds,3.16,0
+Cassis,2026-05-15 15:00:00,17.99,16.94,42,broken clouds,11.1,0
+Cassis,2026-05-15 18:00:00,16.88,15.8,45,overcast clouds,12.5,0
+Cassis,2026-05-15 21:00:00,14.98,13.89,52,scattered clouds,14.11,0
+Cassis,2026-05-16 00:00:00,12.59,11.37,56,clear sky,15.04,0
+Cassis,2026-05-16 03:00:00,11.53,10.28,59,clear sky,14.04,0
+Cassis,2026-05-16 06:00:00,13.22,12.16,60,clear sky,13.58,0
+Cassis,2026-05-16 09:00:00,13.54,12.33,53,clear sky,13.46,0
+Cassis,2026-05-16 12:00:00,15.51,14.34,47,clear sky,13.25,0
+Cassis,2026-05-16 15:00:00,17.22,16.07,41,clear sky,11.14,0
+Cassis,2026-05-16 18:00:00,16.44,15.37,47,clear sky,9.98,0
+Cassis,2026-05-16 21:00:00,15.55,14.39,47,clear sky,9.32,0
+Cassis,2026-05-17 00:00:00,14.04,12.88,53,clear sky,8.8,0
+Cassis,2026-05-17 03:00:00,12.19,11.03,60,clear sky,5.33,0
+Cassis,2026-05-17 06:00:00,13.25,11.99,52,clear sky,3.49,0
+Cassis,2026-05-17 09:00:00,16.7,15.55,43,few clouds,3.41,0
+Cassis,2026-05-17 12:00:00,17.57,16.53,44,scattered clouds,4.05,0
+Cassis,2026-05-17 15:00:00,17.15,16.23,50,overcast clouds,3.6,0
+Cassis,2026-05-17 18:00:00,16.56,15.73,56,broken clouds,2.1,0
+Cassis,2026-05-17 21:00:00,15.5,15.01,73,few clouds,2.52,0
+Cassis,2026-05-18 00:00:00,15.13,14.71,77,scattered clouds,0.78,0
+Cassis,2026-05-18 03:00:00,14.86,14.28,72,overcast clouds,0.86,0
+Cassis,2026-05-18 06:00:00,15.73,15.08,66,overcast clouds,1.33,0
+Cassis,2026-05-18 09:00:00,17.42,16.91,65,few clouds,2.3,0
+Cassis,2026-05-18 12:00:00,18.62,18.13,61,broken clouds,4.7,0
+Cassis,2026-05-18 15:00:00,18.45,17.87,58,scattered clouds,6.09,0
+Cassis,2026-05-18 18:00:00,17.25,16.78,67,scattered clouds,6.38,0
+Cassis,2026-05-18 21:00:00,16.16,15.87,78,broken clouds,4.53,0
+Cassis,2026-05-19 00:00:00,16,15.74,80,light rain,3.37,0.22
+Cassis,2026-05-19 03:00:00,16.03,15.28,61,overcast clouds,4.37,0
+Cassis,2026-05-19 06:00:00,16.5,15.59,53,overcast clouds,6.77,0
+Cassis,2026-05-19 09:00:00,17.92,16.99,47,overcast clouds,8.6,0
+Cassis,2026-05-19 12:00:00,19.94,19.22,47,broken clouds,8.92,0
+Cassis,2026-05-19 15:00:00,20.83,20.33,52,clear sky,8.29,0
+Cassis,2026-05-19 18:00:00,20.15,19.76,59,clear sky,6.26,0
+Cassis,2026-05-19 21:00:00,19.69,19.15,55,few clouds,7.07,0
+Cassis,2026-05-20 00:00:00,18.28,17.73,60,few clouds,8.34,0
+Cassis,2026-05-20 03:00:00,16.73,16.23,68,broken clouds,7.95,0
+Cassis,2026-05-20 06:00:00,16.43,15.96,70,scattered clouds,5.4,0
+Cassis,2026-05-20 09:00:00,19.69,19.15,55,clear sky,5.02,0
+Cassis,2026-05-20 12:00:00,22.03,21.57,49,clear sky,5.79,0
+Marseille,2026-05-15 15:00:00,18.43,17.5,45,broken clouds,11.78,0
+Marseille,2026-05-15 18:00:00,17.48,16.48,46,broken clouds,11.9,0
+Marseille,2026-05-15 21:00:00,15.65,14.65,53,scattered clouds,14.1,0
+Marseille,2026-05-16 00:00:00,13.34,12.19,56,clear sky,14.44,0
+Marseille,2026-05-16 03:00:00,12.29,11.12,59,clear sky,13.58,0
+Marseille,2026-05-16 06:00:00,13.81,12.79,59,clear sky,12.87,0
+Marseille,2026-05-16 09:00:00,14.46,13.35,53,clear sky,12.75,0
+Marseille,2026-05-16 12:00:00,16.3,15.16,45,clear sky,12.78,0
+Marseille,2026-05-16 15:00:00,18.3,17.2,39,clear sky,10.38,0
+Marseille,2026-05-16 18:00:00,17.57,16.56,45,clear sky,9.64,0
+Marseille,2026-05-16 21:00:00,16.76,15.69,46,clear sky,8.85,0
+Marseille,2026-05-17 00:00:00,15.01,13.92,52,clear sky,9.42,0
+Marseille,2026-05-17 03:00:00,13.24,12.19,60,clear sky,6.17,0
+Marseille,2026-05-17 06:00:00,13.21,12.05,56,clear sky,4.4,0
+Marseille,2026-05-17 09:00:00,16.87,15.74,43,scattered clouds,3.8,0
+Marseille,2026-05-17 12:00:00,18.83,17.87,42,broken clouds,3.62,0
+Marseille,2026-05-17 15:00:00,18.66,17.81,47,overcast clouds,4.26,0
+Marseille,2026-05-17 18:00:00,18.09,17.36,54,broken clouds,3.45,0
+Marseille,2026-05-17 21:00:00,17.34,16.96,70,few clouds,3.04,0
+Marseille,2026-05-18 00:00:00,16.86,16.53,74,scattered clouds,0.04,0
+Marseille,2026-05-18 03:00:00,16.4,15.95,71,overcast clouds,1.26,0
+Marseille,2026-05-18 06:00:00,16.73,16.23,68,overcast clouds,2.06,0
+Marseille,2026-05-18 09:00:00,18.15,17.72,65,scattered clouds,1.66,0
+Marseille,2026-05-18 12:00:00,19.53,19.05,58,broken clouds,4.81,0
+Marseille,2026-05-18 15:00:00,19.62,19.07,55,scattered clouds,6.34,0
+Marseille,2026-05-18 18:00:00,18.61,18.2,64,scattered clouds,6.48,0
+Marseille,2026-05-18 21:00:00,17.58,17.4,77,broken clouds,5.23,0
+Marseille,2026-05-19 00:00:00,17.49,17.23,74,light rain,3.29,0.36
+Marseille,2026-05-19 03:00:00,17.12,16.45,60,broken clouds,4.47,0
+Marseille,2026-05-19 06:00:00,16.85,16.05,56,overcast clouds,6.7,0
+Marseille,2026-05-19 09:00:00,18.52,17.65,47,overcast clouds,8.42,0
+Marseille,2026-05-19 12:00:00,20.92,20.27,46,broken clouds,8.24,0
+Marseille,2026-05-19 15:00:00,21.48,21.07,53,clear sky,7.21,0
+Marseille,2026-05-19 18:00:00,21.37,21.05,57,clear sky,5.73,0
+Marseille,2026-05-19 21:00:00,20.99,20.53,53,few clouds,7.18,0
+Marseille,2026-05-20 00:00:00,19.51,19.03,58,scattered clouds,8.92,0
+Marseille,2026-05-20 03:00:00,17.89,17.48,67,scattered clouds,9.5,0
+Marseille,2026-05-20 06:00:00,17.11,16.68,69,scattered clouds,7.21,0
+Marseille,2026-05-20 09:00:00,20.02,19.54,56,clear sky,5.71,0
+Marseille,2026-05-20 12:00:00,22.95,22.5,46,clear sky,5.97,0
+Aix en Provence,2026-05-15 15:00:00,16.73,15.61,44,broken clouds,9.52,0
+Aix en Provence,2026-05-15 18:00:00,15.92,14.74,45,broken clouds,9.21,0
+Aix en Provence,2026-05-15 21:00:00,14.08,12.93,53,few clouds,9.22,0
+Aix en Provence,2026-05-16 00:00:00,11.73,10.47,58,clear sky,9.59,0
+Aix en Provence,2026-05-16 03:00:00,10.7,9.42,61,clear sky,8.9,0
+Aix en Provence,2026-05-16 06:00:00,12.32,11.12,58,clear sky,8.68,0
+Aix en Provence,2026-05-16 09:00:00,13.05,11.74,51,clear sky,10.84,0
+Aix en Provence,2026-05-16 12:00:00,15.78,14.43,39,clear sky,10.73,0
+Aix en Provence,2026-05-16 15:00:00,17.11,15.76,34,clear sky,10.16,0
+Aix en Provence,2026-05-16 18:00:00,15.77,14.45,40,clear sky,7.77,0
+Aix en Provence,2026-05-16 21:00:00,14.18,12.65,38,clear sky,6.05,0
+Aix en Provence,2026-05-17 00:00:00,11.65,10.25,53,clear sky,3.65,0
+Aix en Provence,2026-05-17 03:00:00,9.81,9.38,62,clear sky,1.55,0
+Aix en Provence,2026-05-17 06:00:00,11.43,10.01,53,clear sky,1.56,0
+Aix en Provence,2026-05-17 09:00:00,18.53,17.3,33,scattered clouds,0.52,0
+Aix en Provence,2026-05-17 12:00:00,21.05,19.92,27,broken clouds,4.89,0
+Aix en Provence,2026-05-17 15:00:00,20.76,19.6,27,overcast clouds,3.99,0
+Aix en Provence,2026-05-17 18:00:00,18.95,17.84,36,broken clouds,3.85,0
+Aix en Provence,2026-05-17 21:00:00,15.8,15.03,61,few clouds,2.39,0
+Aix en Provence,2026-05-18 00:00:00,14.69,14.12,73,scattered clouds,0.39,0
+Aix en Provence,2026-05-18 03:00:00,13.7,13.08,75,overcast clouds,1.34,0
+Aix en Provence,2026-05-18 06:00:00,14.8,14.01,64,overcast clouds,1.1,0
+Aix en Provence,2026-05-18 09:00:00,19.75,18.98,46,few clouds,2.15,0
+Aix en Provence,2026-05-18 12:00:00,22.05,21.22,35,scattered clouds,4.22,0
+Aix en Provence,2026-05-18 15:00:00,22.04,21.21,35,scattered clouds,6.66,0
+Aix en Provence,2026-05-18 18:00:00,18.93,18.13,48,scattered clouds,5.08,0
+Aix en Provence,2026-05-18 21:00:00,16.38,15.95,72,broken clouds,3.59,0
+Aix en Provence,2026-05-19 00:00:00,14.98,14.6,79,scattered clouds,1.26,0
+Aix en Provence,2026-05-19 03:00:00,14.48,13.52,59,broken clouds,3.2,0
+Aix en Provence,2026-05-19 06:00:00,14.6,13.66,59,overcast clouds,4.11,0
+Aix en Provence,2026-05-19 09:00:00,18.17,17.03,38,overcast clouds,7.39,0
+Aix en Provence,2026-05-19 12:00:00,22.18,21.34,34,broken clouds,8.3,0
+Aix en Provence,2026-05-19 15:00:00,23.44,22.75,35,clear sky,8.23,0
+Aix en Provence,2026-05-19 18:00:00,21.84,21.23,44,clear sky,6.04,0
+Aix en Provence,2026-05-19 21:00:00,19.46,18.77,50,few clouds,5.58,0
+Aix en Provence,2026-05-20 00:00:00,16.86,16.22,62,scattered clouds,3.98,0
+Aix en Provence,2026-05-20 03:00:00,14.71,14.19,75,broken clouds,3.17,0
+Aix en Provence,2026-05-20 06:00:00,15.18,14.61,71,scattered clouds,2.15,0
+Aix en Provence,2026-05-20 09:00:00,21.02,20.38,46,clear sky,2.64,0
+Aix en Provence,2026-05-20 12:00:00,25.52,24.96,32,clear sky,3.46,0
+Avignon,2026-05-15 15:00:00,15.93,15.12,59,few clouds,10.61,0
+Avignon,2026-05-15 18:00:00,15.68,14.77,56,few clouds,6.47,0
+Avignon,2026-05-15 21:00:00,13.62,12.58,59,clear sky,5.81,0
+Avignon,2026-05-16 00:00:00,11.82,10.49,55,clear sky,6.77,0
+Avignon,2026-05-16 03:00:00,10.16,8.9,64,clear sky,4.74,0
+Avignon,2026-05-16 06:00:00,11.75,10.6,62,few clouds,5.86,0
+Avignon,2026-05-16 09:00:00,14.17,12.97,51,few clouds,9.18,0
+Avignon,2026-05-16 12:00:00,17.62,16.43,38,few clouds,8.38,0
+Avignon,2026-05-16 15:00:00,18.66,17.5,35,clear sky,7.95,0
+Avignon,2026-05-16 18:00:00,15.68,14.56,48,clear sky,6.83,0
+Avignon,2026-05-16 21:00:00,11.99,10.71,56,clear sky,4.27,0
+Avignon,2026-05-17 00:00:00,10.56,9.32,63,clear sky,4.6,0
+Avignon,2026-05-17 03:00:00,8.54,6.09,70,clear sky,4.24,0
+Avignon,2026-05-17 06:00:00,10.56,9.29,62,clear sky,4.67,0
+Avignon,2026-05-17 09:00:00,16.38,15.27,46,overcast clouds,6.16,0
+Avignon,2026-05-17 12:00:00,20.61,19.61,34,overcast clouds,3.09,0
+Avignon,2026-05-17 15:00:00,22.37,21.39,28,broken clouds,2.58,0
+Avignon,2026-05-17 18:00:00,20.16,19.38,44,scattered clouds,2.24,0
+Avignon,2026-05-17 21:00:00,13.74,13.15,76,scattered clouds,2.46,0
+Avignon,2026-05-18 00:00:00,12.89,12.38,82,broken clouds,1.53,0
+Avignon,2026-05-18 03:00:00,11.91,11.35,84,broken clouds,0.97,0
+Avignon,2026-05-18 06:00:00,13.6,13,76,scattered clouds,1.72,0
+Avignon,2026-05-18 09:00:00,19.22,18.61,54,scattered clouds,1.94,0
+Avignon,2026-05-18 12:00:00,23.07,22.35,35,broken clouds,2.68,0
+Avignon,2026-05-18 15:00:00,21.57,20.85,41,broken clouds,4.26,0
+Avignon,2026-05-18 18:00:00,19.06,18.51,57,broken clouds,5.45,0
+Avignon,2026-05-18 21:00:00,15.79,14.97,59,overcast clouds,2.03,0
+Avignon,2026-05-19 00:00:00,14.37,13.51,63,broken clouds,4.14,0
+Avignon,2026-05-19 03:00:00,13.31,12.45,67,broken clouds,5.06,0
+Avignon,2026-05-19 06:00:00,14.4,13.59,65,broken clouds,4.57,0
+Avignon,2026-05-19 09:00:00,19.35,18.49,44,overcast clouds,5.62,0
+Avignon,2026-05-19 12:00:00,22.86,22.17,37,broken clouds,5.73,0
+Avignon,2026-05-19 15:00:00,24.58,24.06,37,clear sky,5.4,0
+Avignon,2026-05-19 18:00:00,21.45,21.01,52,clear sky,5.88,0
+Avignon,2026-05-19 21:00:00,19.06,18.48,56,clear sky,7.05,0
+Avignon,2026-05-20 00:00:00,17.04,16.47,64,few clouds,6.45,0
+Avignon,2026-05-20 03:00:00,15.92,15.4,70,broken clouds,7.94,0
+Avignon,2026-05-20 06:00:00,16.84,16.28,65,scattered clouds,9.23,0
+Avignon,2026-05-20 09:00:00,21.11,20.56,49,clear sky,10.69,0
+Avignon,2026-05-20 12:00:00,23.91,23.45,42,few clouds,10.33,0
+Uzes,2026-05-15 15:00:00,15.12,13.84,44,overcast clouds,8.14,0
+Uzes,2026-05-15 18:00:00,15.02,13.75,45,broken clouds,7.55,0
+Uzes,2026-05-15 21:00:00,12.49,11.26,56,scattered clouds,3.99,0
+Uzes,2026-05-16 00:00:00,10.48,9.2,62,clear sky,5.02,0
+Uzes,2026-05-16 03:00:00,9.31,6.59,64,scattered clouds,5.35,0
+Uzes,2026-05-16 06:00:00,10.74,9.46,61,scattered clouds,4.05,0
+Uzes,2026-05-16 09:00:00,15.1,13.84,45,clear sky,6.48,0
+Uzes,2026-05-16 12:00:00,17.54,16.29,36,scattered clouds,5.76,0
+Uzes,2026-05-16 15:00:00,18.23,17.05,36,broken clouds,6.37,0
+Uzes,2026-05-16 18:00:00,15.43,14.36,51,broken clouds,3.94,0
+Uzes,2026-05-16 21:00:00,10.12,8.88,65,clear sky,2.71,0
+Uzes,2026-05-17 00:00:00,8.65,6.81,68,clear sky,3.13,0
+Uzes,2026-05-17 03:00:00,7.48,5.38,73,clear sky,3.16,0
+Uzes,2026-05-17 06:00:00,10.65,9.36,61,few clouds,3.13,0
+Uzes,2026-05-17 09:00:00,17.27,16.1,40,overcast clouds,4.93,0
+Uzes,2026-05-17 12:00:00,20.37,19.35,34,overcast clouds,2.99,0
+Uzes,2026-05-17 15:00:00,21.36,20.47,35,broken clouds,2.07,0
+Uzes,2026-05-17 18:00:00,17.66,17,58,broken clouds,2.54,0
+Uzes,2026-05-17 21:00:00,13.01,12.35,76,broken clouds,1.63,0
+Uzes,2026-05-18 00:00:00,11.73,11.07,81,overcast clouds,0.86,0
+Uzes,2026-05-18 03:00:00,10,9.61,86,scattered clouds,1.54,0
+Uzes,2026-05-18 06:00:00,12.62,11.82,72,scattered clouds,1.49,0
+Uzes,2026-05-18 09:00:00,18.45,17.66,50,overcast clouds,1.9,0
+Uzes,2026-05-18 12:00:00,22.41,21.67,37,overcast clouds,3.78,0
+Uzes,2026-05-18 15:00:00,23.15,22.46,36,broken clouds,4.54,0
+Uzes,2026-05-18 18:00:00,18.65,17.8,47,overcast clouds,3.35,0
+Uzes,2026-05-18 21:00:00,15.76,14.67,49,overcast clouds,2.32,0
+Uzes,2026-05-19 00:00:00,13.29,12.24,60,overcast clouds,2.61,0
+Uzes,2026-05-19 03:00:00,11.12,10.12,70,broken clouds,3.6,0
+Uzes,2026-05-19 06:00:00,13.63,12.72,64,overcast clouds,2.76,0
+Uzes,2026-05-19 09:00:00,19.26,18.42,45,overcast clouds,3.59,0
+Uzes,2026-05-19 12:00:00,23.42,22.81,38,broken clouds,2.8,0
+Uzes,2026-05-19 15:00:00,23.32,22.75,40,broken clouds,3.79,0
+Uzes,2026-05-19 18:00:00,20.41,19.94,55,broken clouds,4.18,0
+Uzes,2026-05-19 21:00:00,15.88,15.35,70,scattered clouds,3.33,0
+Uzes,2026-05-20 00:00:00,13.59,13.04,78,few clouds,2.98,0
+Uzes,2026-05-20 03:00:00,11.84,11.3,85,scattered clouds,2.65,0
+Uzes,2026-05-20 06:00:00,14.92,14.27,69,scattered clouds,3.98,0
+Uzes,2026-05-20 09:00:00,21.33,20.69,45,few clouds,7.98,0
+Uzes,2026-05-20 12:00:00,24.51,23.98,37,scattered clouds,7.96,0
+Nimes,2026-05-15 15:00:00,11.22,10.54,82,broken clouds,7.46,0
+Nimes,2026-05-15 18:00:00,12.79,11.9,68,broken clouds,7.56,0
+Nimes,2026-05-15 21:00:00,12.07,10.9,60,scattered clouds,4.65,0
+Nimes,2026-05-16 00:00:00,11.67,10.28,53,clear sky,5.38,0
+Nimes,2026-05-16 03:00:00,10.25,8.74,54,few clouds,5.74,0
+Nimes,2026-05-16 06:00:00,11.28,9.9,55,few clouds,3.77,0
+Nimes,2026-05-16 09:00:00,15.33,14.07,44,few clouds,7.74,0
+Nimes,2026-05-16 12:00:00,18.67,17.43,32,scattered clouds,5.53,0
+Nimes,2026-05-16 15:00:00,19.53,18.32,30,overcast clouds,4.73,0
+Nimes,2026-05-16 18:00:00,16.78,15.58,41,overcast clouds,4.6,0
+Nimes,2026-05-16 21:00:00,12.18,10.84,53,clear sky,2.21,0
+Nimes,2026-05-17 00:00:00,10.66,9.32,59,clear sky,3.45,0
+Nimes,2026-05-17 03:00:00,9.49,7.61,64,clear sky,3.53,0
+Nimes,2026-05-17 06:00:00,11.9,10.61,56,clear sky,3.21,0
+Nimes,2026-05-17 09:00:00,18.04,16.84,36,overcast clouds,4.24,0
+Nimes,2026-05-17 12:00:00,21.61,20.61,30,overcast clouds,2.67,0
+Nimes,2026-05-17 15:00:00,22.4,21.53,32,broken clouds,2.88,0
+Nimes,2026-05-17 18:00:00,18.01,17.33,56,broken clouds,4.25,0
+Nimes,2026-05-17 21:00:00,14.2,13.61,74,broken clouds,2.48,0
+Nimes,2026-05-18 00:00:00,13.05,12.5,80,broken clouds,0.71,0
+Nimes,2026-05-18 03:00:00,11.72,11.04,80,broken clouds,1.57,0
+Nimes,2026-05-18 06:00:00,13.59,12.75,67,scattered clouds,2.26,0
+Nimes,2026-05-18 09:00:00,19.02,18.2,47,overcast clouds,2.6,0
+Nimes,2026-05-18 12:00:00,23.13,22.41,35,overcast clouds,3.75,0
+Nimes,2026-05-18 15:00:00,20.99,20.32,45,broken clouds,6.29,0
+Nimes,2026-05-18 18:00:00,18.87,18.35,59,overcast clouds,5.06,0
+Nimes,2026-05-18 21:00:00,16.92,16.1,55,overcast clouds,2.56,0
+Nimes,2026-05-19 00:00:00,15.18,14.11,52,overcast clouds,2.26,0
+Nimes,2026-05-19 03:00:00,12.88,11.84,62,overcast clouds,3.09,0
+Nimes,2026-05-19 06:00:00,14.46,13.5,59,overcast clouds,2.68,0
+Nimes,2026-05-19 09:00:00,19.81,18.94,42,overcast clouds,3.63,0
+Nimes,2026-05-19 12:00:00,24.89,24.32,34,broken clouds,3.36,0
+Nimes,2026-05-19 15:00:00,25.43,24.89,33,overcast clouds,4.78,0
+Nimes,2026-05-19 18:00:00,22.38,21.9,47,broken clouds,4.33,0
+Nimes,2026-05-19 21:00:00,17.64,17.1,63,few clouds,2.89,0
+Nimes,2026-05-20 00:00:00,15.52,14.96,70,few clouds,3.44,0
+Nimes,2026-05-20 03:00:00,14.07,13.44,73,clear sky,3.48,0
+Nimes,2026-05-20 06:00:00,16.07,15.35,62,clear sky,4.3,0
+Nimes,2026-05-20 09:00:00,22.05,21.38,41,clear sky,6.92,0
+Nimes,2026-05-20 12:00:00,25.78,25.25,32,scattered clouds,6.84,0
+Aigues Mortes,2026-05-15 15:00:00,18.98,17.95,39,few clouds,7.91,0
+Aigues Mortes,2026-05-15 18:00:00,18.38,17.32,40,scattered clouds,6.71,0
+Aigues Mortes,2026-05-15 21:00:00,15.26,14.12,49,clear sky,7.46,0
+Aigues Mortes,2026-05-16 00:00:00,12.56,11.31,55,clear sky,7.49,0
+Aigues Mortes,2026-05-16 03:00:00,10.85,9.48,57,clear sky,7.13,0
+Aigues Mortes,2026-05-16 06:00:00,11.71,10.48,59,scattered clouds,9.72,0
+Aigues Mortes,2026-05-16 09:00:00,14.74,13.65,53,few clouds,9.86,0
+Aigues Mortes,2026-05-16 12:00:00,17.35,16.21,41,clear sky,8.01,0
+Aigues Mortes,2026-05-16 15:00:00,19.06,17.96,36,clear sky,8.02,0
+Aigues Mortes,2026-05-16 18:00:00,17.48,16.41,43,scattered clouds,7.55,0
+Aigues Mortes,2026-05-16 21:00:00,15.13,14,50,clear sky,7.95,0
+Aigues Mortes,2026-05-17 00:00:00,12.76,11.68,61,clear sky,5.16,0
+Aigues Mortes,2026-05-17 03:00:00,11.86,10.8,65,clear sky,4.66,0
+Aigues Mortes,2026-05-17 06:00:00,13.3,12.2,58,few clouds,3.38,0
+Aigues Mortes,2026-05-17 09:00:00,17.01,15.84,41,overcast clouds,2.2,0
+Aigues Mortes,2026-05-17 12:00:00,18.32,17.33,43,overcast clouds,3.97,0
+Aigues Mortes,2026-05-17 15:00:00,18.84,18.03,48,broken clouds,4.57,0
+Aigues Mortes,2026-05-17 18:00:00,17.5,17.06,67,scattered clouds,5.47,0
+Aigues Mortes,2026-05-17 21:00:00,16.72,16.38,74,light rain,3.91,0.13
+Aigues Mortes,2026-05-18 00:00:00,16.12,15.64,71,broken clouds,3.39,0
+Aigues Mortes,2026-05-18 03:00:00,14.09,13.41,71,broken clouds,3.05,0
+Aigues Mortes,2026-05-18 06:00:00,14.2,13.43,67,broken clouds,3.23,0
+Aigues Mortes,2026-05-18 09:00:00,17.86,17.09,53,overcast clouds,1.35,0
+Aigues Mortes,2026-05-18 12:00:00,19.5,18.92,54,overcast clouds,5.32,0
+Aigues Mortes,2026-05-18 15:00:00,18.42,18.01,65,broken clouds,6.75,0
+Aigues Mortes,2026-05-18 18:00:00,17.93,17.71,74,broken clouds,7.37,0
+Aigues Mortes,2026-05-18 21:00:00,18.07,17.66,66,overcast clouds,5.33,0
+Aigues Mortes,2026-05-19 00:00:00,16.67,15.93,59,overcast clouds,3.54,0
+Aigues Mortes,2026-05-19 03:00:00,15.14,14.2,57,overcast clouds,2.29,0
+Aigues Mortes,2026-05-19 06:00:00,15.55,14.68,58,overcast clouds,2.4,0
+Aigues Mortes,2026-05-19 09:00:00,18.39,17.59,50,overcast clouds,2.15,0
+Aigues Mortes,2026-05-19 12:00:00,21.31,20.85,52,broken clouds,3.42,0
+Aigues Mortes,2026-05-19 15:00:00,23.32,23.01,50,few clouds,3.68,0
+Aigues Mortes,2026-05-19 18:00:00,22.6,22.27,52,few clouds,7.19,0
+Aigues Mortes,2026-05-19 21:00:00,18.95,18.57,64,few clouds,5.18,0
+Aigues Mortes,2026-05-20 00:00:00,17.25,16.86,70,few clouds,4.35,0
+Aigues Mortes,2026-05-20 03:00:00,16.16,15.66,70,clear sky,4.82,0
+Aigues Mortes,2026-05-20 06:00:00,16.82,16.23,64,clear sky,4.83,0
+Aigues Mortes,2026-05-20 09:00:00,21.21,20.64,48,clear sky,5.28,0
+Aigues Mortes,2026-05-20 12:00:00,23.52,23.05,43,scattered clouds,1.65,0
+Saintes Maries de la mer,2026-05-15 15:00:00,16.9,15.77,43,scattered clouds,8.6,0
+Saintes Maries de la mer,2026-05-15 18:00:00,16.71,15.59,44,scattered clouds,9.31,0
+Saintes Maries de la mer,2026-05-15 21:00:00,14.73,13.54,49,few clouds,8.29,0
+Saintes Maries de la mer,2026-05-16 00:00:00,11.96,10.75,59,clear sky,8.96,0
+Saintes Maries de la mer,2026-05-16 03:00:00,11.57,10.35,60,clear sky,8.2,0
+Saintes Maries de la mer,2026-05-16 06:00:00,13.07,12,60,few clouds,10.37,0
+Saintes Maries de la mer,2026-05-16 09:00:00,14.83,13.78,54,few clouds,9.59,0
+Saintes Maries de la mer,2026-05-16 12:00:00,17.19,16.11,44,scattered clouds,9.32,0
+Saintes Maries de la mer,2026-05-16 15:00:00,18.81,17.82,41,broken clouds,8.2,0
+Saintes Maries de la mer,2026-05-16 18:00:00,17.92,16.94,45,broken clouds,9.19,0
+Saintes Maries de la mer,2026-05-16 21:00:00,14.73,13.69,55,clear sky,6.8,0
+Saintes Maries de la mer,2026-05-17 00:00:00,13.17,12.14,61,clear sky,5.76,0
+Saintes Maries de la mer,2026-05-17 03:00:00,12.34,11.35,66,clear sky,6.42,0
+Saintes Maries de la mer,2026-05-17 06:00:00,13.32,12.25,59,clear sky,4.75,0
+Saintes Maries de la mer,2026-05-17 09:00:00,17.05,15.93,43,overcast clouds,4.03,0
+Saintes Maries de la mer,2026-05-17 12:00:00,18.5,17.63,47,overcast clouds,4.8,0
+Saintes Maries de la mer,2026-05-17 15:00:00,18.39,17.59,50,broken clouds,5.7,0
+Saintes Maries de la mer,2026-05-17 18:00:00,17.54,17.15,69,scattered clouds,5.62,0
+Saintes Maries de la mer,2026-05-17 21:00:00,16.93,16.69,77,scattered clouds,4.87,0
+Saintes Maries de la mer,2026-05-18 00:00:00,16.85,16.68,80,light rain,2.46,0.25
+Saintes Maries de la mer,2026-05-18 03:00:00,14.56,14.13,79,light rain,3.61,0.19
+Saintes Maries de la mer,2026-05-18 06:00:00,14.64,14.09,74,broken clouds,4.45,0
+Saintes Maries de la mer,2026-05-18 09:00:00,18.02,17.31,55,broken clouds,2.39,0
+Saintes Maries de la mer,2026-05-18 12:00:00,18.26,17.66,58,broken clouds,5.09,0
+Saintes Maries de la mer,2026-05-18 15:00:00,18.49,18.04,63,scattered clouds,6.24,0
+Saintes Maries de la mer,2026-05-18 18:00:00,17.55,17.35,76,broken clouds,7.36,0
+Saintes Maries de la mer,2026-05-18 21:00:00,17.51,17.41,80,overcast clouds,6.3,0
+Saintes Maries de la mer,2026-05-19 00:00:00,16.34,15.65,62,broken clouds,4.07,0
+Saintes Maries de la mer,2026-05-19 03:00:00,15.33,14.49,60,overcast clouds,4.48,0
+Saintes Maries de la mer,2026-05-19 06:00:00,15.49,14.69,61,overcast clouds,4.78,0
+Saintes Maries de la mer,2026-05-19 09:00:00,17.78,16.97,52,overcast clouds,3.58,0
+Saintes Maries de la mer,2026-05-19 12:00:00,19.72,19.24,57,broken clouds,5.26,0
+Saintes Maries de la mer,2026-05-19 15:00:00,20.32,20.03,62,few clouds,5.71,0
+Saintes Maries de la mer,2026-05-19 18:00:00,21.8,21.52,57,scattered clouds,4.65,0
+Saintes Maries de la mer,2026-05-19 21:00:00,18.28,18.02,71,scattered clouds,3.79,0
+Saintes Maries de la mer,2026-05-20 00:00:00,16.84,16.51,74,scattered clouds,4.87,0
+Saintes Maries de la mer,2026-05-20 03:00:00,16.08,15.68,74,scattered clouds,6.14,0
+Saintes Maries de la mer,2026-05-20 06:00:00,16.51,15.99,68,scattered clouds,6.21,0
+Saintes Maries de la mer,2026-05-20 09:00:00,20.53,20,52,clear sky,7.25,0
+Saintes Maries de la mer,2026-05-20 12:00:00,22.69,22.29,49,scattered clouds,4.77,0
+Collioure,2026-05-15 15:00:00,18.08,17.22,49,overcast clouds,11.22,0
+Collioure,2026-05-15 18:00:00,16.65,15.73,52,overcast clouds,10.02,0
+Collioure,2026-05-15 21:00:00,14.61,13.51,53,scattered clouds,8.7,0
+Collioure,2026-05-16 00:00:00,12.08,10.91,60,clear sky,8.21,0
+Collioure,2026-05-16 03:00:00,10.01,8.92,71,few clouds,6.39,0
+Collioure,2026-05-16 06:00:00,11.22,10.04,63,few clouds,5.52,0
+Collioure,2026-05-16 09:00:00,15.88,14.8,49,clear sky,9.46,0
+Collioure,2026-05-16 12:00:00,18.71,17.73,42,clear sky,11.95,0
+Collioure,2026-05-16 15:00:00,18.66,17.78,46,broken clouds,7.44,0
+Collioure,2026-05-16 18:00:00,15.78,15.06,63,light rain,4.75,0.1
+Collioure,2026-05-16 21:00:00,12.57,11.89,77,scattered clouds,4.3,0
+Collioure,2026-05-17 00:00:00,11.6,10.96,82,few clouds,3.77,0
+Collioure,2026-05-17 03:00:00,11.11,10.42,82,clear sky,2.56,0
+Collioure,2026-05-17 06:00:00,13.36,12.63,72,few clouds,1.64,0
+Collioure,2026-05-17 09:00:00,17.85,17.05,52,overcast clouds,1.35,0
+Collioure,2026-05-17 12:00:00,19.32,18.64,51,overcast clouds,2.87,0
+Collioure,2026-05-17 15:00:00,20.21,19.72,55,broken clouds,3.61,0
+Collioure,2026-05-17 18:00:00,18.84,18.53,67,scattered clouds,2.4,0
+Collioure,2026-05-17 21:00:00,15.21,14.93,82,light rain,2.53,0.17
+Collioure,2026-05-18 00:00:00,14.85,14.37,76,overcast clouds,3.13,0
+Collioure,2026-05-18 03:00:00,15.07,14.56,74,overcast clouds,2.68,0
+Collioure,2026-05-18 06:00:00,15.09,14.61,75,broken clouds,2,0
+Collioure,2026-05-18 09:00:00,18.9,18.39,59,overcast clouds,1.35,0
+Collioure,2026-05-18 12:00:00,18.46,18.14,68,light rain,3.21,0.25
+Collioure,2026-05-18 15:00:00,19.8,19.59,67,light rain,3.06,0.28
+Collioure,2026-05-18 18:00:00,18.23,18.22,81,light rain,2.12,0.71
+Collioure,2026-05-18 21:00:00,17.02,16.84,79,light rain,2.56,0.19
+Collioure,2026-05-19 00:00:00,15.53,15.31,83,overcast clouds,1.87,0
+Collioure,2026-05-19 03:00:00,15.39,15.1,81,overcast clouds,1.21,0
+Collioure,2026-05-19 06:00:00,16.63,16.36,77,overcast clouds,1.15,0
+Collioure,2026-05-19 09:00:00,21.22,20.89,57,overcast clouds,1.32,0
+Collioure,2026-05-19 12:00:00,23.42,23.12,50,broken clouds,0.94,0
+Collioure,2026-05-19 15:00:00,21.58,21.6,69,light rain,2.04,0.21
+Collioure,2026-05-19 18:00:00,21.71,21.53,61,light rain,4.86,0.17
+Collioure,2026-05-19 21:00:00,18.05,17.84,74,clear sky,5.18,0
+Collioure,2026-05-20 00:00:00,16.94,16.8,81,clear sky,3.84,0
+Collioure,2026-05-20 03:00:00,16.2,16.07,84,clear sky,4.25,0
+Collioure,2026-05-20 06:00:00,17.34,17.22,80,few clouds,3.99,0
+Collioure,2026-05-20 09:00:00,22,21.74,57,clear sky,5.29,0
+Collioure,2026-05-20 12:00:00,24.85,24.43,40,broken clouds,7.35,0
+Carcassonne,2026-05-15 15:00:00,14.81,13.78,55,light rain,8.91,0.22
+Carcassonne,2026-05-15 18:00:00,14.72,13.76,58,light rain,7.83,0.22
+Carcassonne,2026-05-15 21:00:00,12.55,11.74,72,few clouds,6.03,0
+Carcassonne,2026-05-16 00:00:00,10.27,9.7,90,light rain,7.12,0.39
+Carcassonne,2026-05-16 03:00:00,9.09,6.14,91,light rain,5.85,0.42
+Carcassonne,2026-05-16 06:00:00,11.57,10.87,80,scattered clouds,7.9,0
+Carcassonne,2026-05-16 09:00:00,9.72,6.7,83,light rain,6.59,0.46
+Carcassonne,2026-05-16 12:00:00,15.65,14.65,53,light rain,9.91,0.43
+Carcassonne,2026-05-16 15:00:00,15.71,14.85,58,light rain,8.19,0.23
+Carcassonne,2026-05-16 18:00:00,13.89,13.19,71,scattered clouds,6.48,0
+Carcassonne,2026-05-16 21:00:00,10.16,9.58,90,clear sky,3.35,0
+Carcassonne,2026-05-17 00:00:00,8.62,7.38,94,clear sky,2.25,0
+Carcassonne,2026-05-17 03:00:00,9.26,8.26,91,broken clouds,2.09,0
+Carcassonne,2026-05-17 06:00:00,10.92,10.26,84,broken clouds,2.2,0
+Carcassonne,2026-05-17 09:00:00,16.74,16.01,59,broken clouds,3.82,0
+Carcassonne,2026-05-17 12:00:00,20.29,19.55,45,scattered clouds,3.68,0
+Carcassonne,2026-05-17 15:00:00,20.96,20.23,43,few clouds,4.5,0
+Carcassonne,2026-05-17 18:00:00,17.89,17.3,60,scattered clouds,2.37,0
+Carcassonne,2026-05-17 21:00:00,12.96,12.37,79,overcast clouds,2.72,0
+Carcassonne,2026-05-18 00:00:00,12.39,11.96,87,overcast clouds,3.15,0
+Carcassonne,2026-05-18 03:00:00,10.56,10.13,94,overcast clouds,3,0
+Carcassonne,2026-05-18 06:00:00,11.47,10.94,87,overcast clouds,3.2,0
+Carcassonne,2026-05-18 09:00:00,16.18,15.5,63,overcast clouds,3.18,0
+Carcassonne,2026-05-18 12:00:00,21.05,20.46,48,overcast clouds,3.05,0
+Carcassonne,2026-05-18 15:00:00,20.21,19.64,52,overcast clouds,5.54,0
+Carcassonne,2026-05-18 18:00:00,17.56,17.02,63,overcast clouds,3.42,0
+Carcassonne,2026-05-18 21:00:00,14.96,14.39,72,overcast clouds,1.59,0
+Carcassonne,2026-05-19 00:00:00,12.74,12.18,81,overcast clouds,1.51,0
+Carcassonne,2026-05-19 03:00:00,12.6,12.08,83,overcast clouds,1.76,0
+Carcassonne,2026-05-19 06:00:00,14.39,13.95,79,overcast clouds,2.1,0
+Carcassonne,2026-05-19 09:00:00,18.84,18.32,59,overcast clouds,3.55,0
+Carcassonne,2026-05-19 12:00:00,22.83,22.27,42,scattered clouds,5.68,0
+Carcassonne,2026-05-19 15:00:00,23.53,23.09,44,few clouds,6.16,0
+Carcassonne,2026-05-19 18:00:00,19.47,19.12,63,few clouds,5.76,0
+Carcassonne,2026-05-19 21:00:00,15.07,14.83,84,clear sky,3.58,0
+Carcassonne,2026-05-20 00:00:00,13.72,13.58,93,few clouds,3.66,0
+Carcassonne,2026-05-20 03:00:00,14.71,14.56,89,broken clouds,3.04,0
+Carcassonne,2026-05-20 06:00:00,15.18,15.03,87,broken clouds,3.88,0
+Carcassonne,2026-05-20 09:00:00,19.62,19.2,60,broken clouds,5.85,0
+Carcassonne,2026-05-20 12:00:00,23.04,22.52,43,broken clouds,5.91,0
+Ariege,2026-05-15 15:00:00,5.13,2.88,69,light rain,2.71,2.21
+Ariege,2026-05-15 18:00:00,6.07,4.19,76,light rain,2.47,2.38
+Ariege,2026-05-15 21:00:00,5.38,4.29,87,light rain,1.57,1.27
+Ariege,2026-05-16 00:00:00,3.93,2.17,95,light rain,1.96,1.11
+Ariege,2026-05-16 03:00:00,3.01,1.47,94,light rain,1.65,0.22
+Ariege,2026-05-16 06:00:00,5.33,4.51,94,light rain,1.36,0.11
+Ariege,2026-05-16 09:00:00,6.35,3.92,75,light rain,3.32,0.39
+Ariege,2026-05-16 12:00:00,8.88,6.99,63,light rain,3.3,0.25
+Ariege,2026-05-16 15:00:00,9.63,7.96,66,light rain,3.19,0.2
+Ariege,2026-05-16 18:00:00,7.69,6.79,85,light rain,1.7,0.21
+Ariege,2026-05-16 21:00:00,4.54,4.54,97,light rain,1.2,0.17
+Ariege,2026-05-17 00:00:00,3.62,2.36,97,broken clouds,1.51,0
+Ariege,2026-05-17 03:00:00,2.9,0.74,93,overcast clouds,2.17,0
+Ariege,2026-05-17 06:00:00,5.35,5.35,86,overcast clouds,1.21,0
+Ariege,2026-05-17 09:00:00,11.13,9.97,64,broken clouds,2.03,0
+Ariege,2026-05-17 12:00:00,12.34,11.25,62,light rain,2.35,0.11
+Ariege,2026-05-17 15:00:00,10.6,9.88,83,light rain,1.34,0.44
+Ariege,2026-05-17 18:00:00,9.24,9.24,90,light rain,0.74,0.62
+Ariege,2026-05-17 21:00:00,7.59,6.95,97,light rain,1.46,0.9
+Ariege,2026-05-18 00:00:00,7.49,7.49,96,light rain,0.5,0.44
+Ariege,2026-05-18 03:00:00,6.38,6.38,98,overcast clouds,0.3,0
+Ariege,2026-05-18 06:00:00,6.83,6.83,98,overcast clouds,0.11,0
+Ariege,2026-05-18 09:00:00,10.82,10.07,81,light rain,0.76,0.11
+Ariege,2026-05-18 12:00:00,14.17,13.37,66,light rain,3.08,0.64
+Ariege,2026-05-18 15:00:00,11.75,11.07,80,light rain,1.68,0.87
+Ariege,2026-05-18 18:00:00,9.94,9.94,91,light rain,0.31,0.2
+Ariege,2026-05-18 21:00:00,8.8,8.14,93,overcast clouds,1.63,0
+Ariege,2026-05-19 00:00:00,7.34,5.99,92,overcast clouds,2.12,0
+Ariege,2026-05-19 03:00:00,8.31,7.64,86,overcast clouds,1.57,0
+Ariege,2026-05-19 06:00:00,10.27,9.55,84,overcast clouds,1.13,0
+Ariege,2026-05-19 09:00:00,13.89,13.16,70,overcast clouds,1.6,0
+Ariege,2026-05-19 12:00:00,16.78,16.03,58,light rain,2.78,0.15
+Ariege,2026-05-19 15:00:00,14.86,14.54,82,light rain,2.62,1.44
+Ariege,2026-05-19 18:00:00,11.73,11.52,98,light rain,1.42,2.79
+Ariege,2026-05-19 21:00:00,10.07,9.69,98,light rain,1.16,0.3
+Ariege,2026-05-20 00:00:00,9.43,9.17,96,overcast clouds,1.35,0
+Ariege,2026-05-20 03:00:00,8.56,8.56,95,broken clouds,1.17,0
+Ariege,2026-05-20 06:00:00,10.13,9.68,95,broken clouds,0.67,0
+Ariege,2026-05-20 09:00:00,14.18,13.69,78,scattered clouds,1.93,0
+Ariege,2026-05-20 12:00:00,17.75,17.07,57,broken clouds,2.65,0
+Toulouse,2026-05-15 15:00:00,14.97,13.85,51,light rain,5.51,0.46
+Toulouse,2026-05-15 18:00:00,14.55,13.52,56,light rain,5.69,0.23
+Toulouse,2026-05-15 21:00:00,12.08,11.15,69,light rain,5.2,0.13
+Toulouse,2026-05-16 00:00:00,8.87,6.03,86,light rain,5.38,0.41
+Toulouse,2026-05-16 03:00:00,8.77,6.43,92,few clouds,4.13,0
+Toulouse,2026-05-16 06:00:00,10.98,10.54,92,light rain,6.41,0.29
+Toulouse,2026-05-16 09:00:00,12.77,11.85,67,light rain,6.87,0.67
+Toulouse,2026-05-16 12:00:00,14.02,13.07,61,light rain,6.8,0.56
+Toulouse,2026-05-16 15:00:00,14.94,14.16,64,light rain,5.88,0.39
+Toulouse,2026-05-16 18:00:00,13.89,13.27,74,light rain,3.74,0.2
+Toulouse,2026-05-16 21:00:00,10.68,10.05,86,broken clouds,2.21,0
+Toulouse,2026-05-17 00:00:00,9.32,9.32,90,broken clouds,0.74,0
+Toulouse,2026-05-17 03:00:00,8.74,8.74,91,overcast clouds,0.33,0
+Toulouse,2026-05-17 06:00:00,10.14,9.46,86,overcast clouds,0.85,0
+Toulouse,2026-05-17 09:00:00,15.62,14.93,65,scattered clouds,1.02,0
+Toulouse,2026-05-17 12:00:00,19.48,18.76,49,scattered clouds,0.85,0
+Toulouse,2026-05-17 15:00:00,20.24,19.47,44,scattered clouds,3.35,0
+Toulouse,2026-05-17 18:00:00,17.16,16.6,64,scattered clouds,3.91,0
+Toulouse,2026-05-17 21:00:00,12.16,11.7,87,light rain,2.48,0.16
+Toulouse,2026-05-18 00:00:00,10.41,9.91,92,scattered clouds,2.88,0
+Toulouse,2026-05-18 03:00:00,8.97,8.56,93,scattered clouds,1.42,0
+Toulouse,2026-05-18 06:00:00,10.73,10.13,87,broken clouds,1.34,0
+Toulouse,2026-05-18 09:00:00,16.06,15.37,63,overcast clouds,1.06,0
+Toulouse,2026-05-18 12:00:00,18.26,17.6,56,overcast clouds,2.34,0
+Toulouse,2026-05-18 15:00:00,18.54,17.91,56,overcast clouds,2.8,0
+Toulouse,2026-05-18 18:00:00,17.69,17.21,65,overcast clouds,1.44,0
+Toulouse,2026-05-18 21:00:00,13.43,12.87,78,broken clouds,1.07,0
+Toulouse,2026-05-19 00:00:00,12.55,12.05,84,broken clouds,1.3,0
+Toulouse,2026-05-19 03:00:00,12.67,12.24,86,overcast clouds,1.48,0
+Toulouse,2026-05-19 06:00:00,13.18,12.69,82,overcast clouds,1.9,0
+Toulouse,2026-05-19 09:00:00,18.24,17.48,52,broken clouds,1.96,0
+Toulouse,2026-05-19 12:00:00,22.07,21.43,42,broken clouds,3.58,0
+Toulouse,2026-05-19 15:00:00,21.71,21.29,52,broken clouds,5.61,0
+Toulouse,2026-05-19 18:00:00,18.88,18.57,67,scattered clouds,2.96,0
+Toulouse,2026-05-19 21:00:00,14.71,14.53,88,few clouds,1.84,0
+Toulouse,2026-05-20 00:00:00,13.99,13.82,91,few clouds,1.99,0
+Toulouse,2026-05-20 03:00:00,13.59,13.41,92,broken clouds,1.88,0
+Toulouse,2026-05-20 06:00:00,13.64,13.38,89,scattered clouds,2.03,0
+Toulouse,2026-05-20 09:00:00,18.45,18.05,65,broken clouds,2.69,0
+Toulouse,2026-05-20 12:00:00,21.89,21.31,45,overcast clouds,2.77,0
+Montauban,2026-05-15 15:00:00,15.92,14.9,51,broken clouds,6.62,0
+Montauban,2026-05-15 18:00:00,15.33,14.35,55,light rain,5.94,0.12
+Montauban,2026-05-15 21:00:00,12.05,11.16,71,light rain,3.87,0.11
+Montauban,2026-05-16 00:00:00,7.87,5.6,92,light rain,3.6,0.15
+Montauban,2026-05-16 03:00:00,8.63,6.84,93,few clouds,3.05,0
+Montauban,2026-05-16 06:00:00,10.85,10.39,92,light rain,4.13,0.22
+Montauban,2026-05-16 09:00:00,13.16,12.18,63,light rain,7.27,0.65
+Montauban,2026-05-16 12:00:00,13.9,12.94,61,light rain,8.26,0.48
+Montauban,2026-05-16 15:00:00,15.51,14.71,61,light rain,6.44,0.21
+Montauban,2026-05-16 18:00:00,13.61,13.06,78,light rain,3.65,0.47
+Montauban,2026-05-16 21:00:00,10.6,10.04,89,overcast clouds,2.45,0
+Montauban,2026-05-17 00:00:00,10.9,10.37,89,overcast clouds,0.98,0
+Montauban,2026-05-17 03:00:00,8.92,8.92,92,overcast clouds,1.04,0
+Montauban,2026-05-17 06:00:00,10.15,9.52,88,overcast clouds,0.8,0
+Montauban,2026-05-17 09:00:00,14.79,14.15,70,few clouds,1.72,0
+Montauban,2026-05-17 12:00:00,18.27,17.54,53,few clouds,2.15,0
+Montauban,2026-05-17 15:00:00,19.21,18.52,51,broken clouds,3.49,0
+Montauban,2026-05-17 18:00:00,15.72,15.41,79,light rain,3.04,0.86
+Montauban,2026-05-17 21:00:00,11.95,11.45,86,light rain,1.62,0.26
+Montauban,2026-05-18 00:00:00,9.62,8.39,93,scattered clouds,2.47,0
+Montauban,2026-05-18 03:00:00,8.26,8.26,96,broken clouds,0.85,0
+Montauban,2026-05-18 06:00:00,10.26,9.74,92,broken clouds,0.94,0
+Montauban,2026-05-18 09:00:00,13.53,12.92,76,overcast clouds,0.56,0
+Montauban,2026-05-18 12:00:00,17.16,16.5,60,overcast clouds,1.99,0
+Montauban,2026-05-18 15:00:00,18.15,17.51,57,overcast clouds,2.35,0
+Montauban,2026-05-18 18:00:00,17.44,16.99,67,overcast clouds,0.95,0
+Montauban,2026-05-18 21:00:00,14.03,13.34,71,overcast clouds,1.63,0
+Montauban,2026-05-19 00:00:00,12.18,11.62,83,overcast clouds,1.26,0
+Montauban,2026-05-19 03:00:00,12.45,12.02,87,overcast clouds,1.16,0
+Montauban,2026-05-19 06:00:00,12.95,12.29,76,overcast clouds,1.89,0
+Montauban,2026-05-19 09:00:00,15.96,15.13,58,overcast clouds,1.2,0
+Montauban,2026-05-19 12:00:00,18.7,18.01,53,overcast clouds,2.67,0
+Montauban,2026-05-19 15:00:00,18.41,18.08,68,broken clouds,3.41,0
+Montauban,2026-05-19 18:00:00,18.58,18.43,74,broken clouds,3.2,0
+Montauban,2026-05-19 21:00:00,13.9,13.62,87,clear sky,1.2,0
+Montauban,2026-05-20 00:00:00,14,13.75,88,scattered clouds,1.68,0
+Montauban,2026-05-20 03:00:00,11.57,11.24,94,broken clouds,2.22,0
+Montauban,2026-05-20 06:00:00,13.02,12.73,90,scattered clouds,1.98,0
+Montauban,2026-05-20 09:00:00,17.6,17.22,69,broken clouds,2.57,0
+Montauban,2026-05-20 12:00:00,21.18,20.69,51,broken clouds,2.81,0
+Biarritz,2026-05-15 15:00:00,13,12.21,71,light rain,5.43,1.49
+Biarritz,2026-05-15 18:00:00,13.3,12.54,71,light rain,6.73,1.1
+Biarritz,2026-05-15 21:00:00,12.56,11.67,69,light rain,5.03,0.29
+Biarritz,2026-05-16 00:00:00,11.56,10.76,76,light rain,5.66,1.53
+Biarritz,2026-05-16 03:00:00,10.74,9.93,79,light rain,5.35,1.71
+Biarritz,2026-05-16 06:00:00,11.72,11.04,80,light rain,5.94,2.21
+Biarritz,2026-05-16 09:00:00,13.15,12.56,78,light rain,5.87,1.74
+Biarritz,2026-05-16 12:00:00,15.13,14.37,64,light rain,5.69,0.55
+Biarritz,2026-05-16 15:00:00,15.16,14.43,65,light rain,4.05,0.15
+Biarritz,2026-05-16 18:00:00,14.67,14.02,70,scattered clouds,2.48,0
+Biarritz,2026-05-16 21:00:00,12.46,11.8,78,overcast clouds,1.88,0
+Biarritz,2026-05-17 00:00:00,10.78,10.19,87,overcast clouds,2.53,0
+Biarritz,2026-05-17 03:00:00,10.21,9.56,87,scattered clouds,2.44,0
+Biarritz,2026-05-17 06:00:00,10.9,10.16,81,scattered clouds,2.14,0
+Biarritz,2026-05-17 09:00:00,15.38,14.62,63,scattered clouds,1.28,0
+Biarritz,2026-05-17 12:00:00,16.17,15.54,65,scattered clouds,3.32,0
+Biarritz,2026-05-17 15:00:00,16.24,15.77,71,overcast clouds,4.38,0
+Biarritz,2026-05-17 18:00:00,15.24,14.78,75,light rain,2.8,0.1
+Biarritz,2026-05-17 21:00:00,13.28,12.75,80,broken clouds,2.08,0
+Biarritz,2026-05-18 00:00:00,13.34,12.82,80,broken clouds,2.07,0
+Biarritz,2026-05-18 03:00:00,13.34,12.77,78,overcast clouds,1.48,0
+Biarritz,2026-05-18 06:00:00,13.38,12.84,79,overcast clouds,1.45,0
+Biarritz,2026-05-18 09:00:00,15.32,14.74,70,overcast clouds,0.99,0
+Biarritz,2026-05-18 12:00:00,16.14,15.64,70,overcast clouds,3.26,0
+Biarritz,2026-05-18 15:00:00,16.07,15.61,72,overcast clouds,2.8,0
+Biarritz,2026-05-18 18:00:00,16.16,15.76,74,overcast clouds,2.28,0
+Biarritz,2026-05-18 21:00:00,14.38,13.99,81,overcast clouds,0.71,0
+Biarritz,2026-05-19 00:00:00,14.04,13.61,81,overcast clouds,1.57,0
+Biarritz,2026-05-19 03:00:00,14,13.6,82,overcast clouds,1.12,0
+Biarritz,2026-05-19 06:00:00,14.65,14.29,81,overcast clouds,2.13,0
+Biarritz,2026-05-19 09:00:00,18.42,18.12,69,broken clouds,1.94,0
+Biarritz,2026-05-19 12:00:00,17.18,16.86,73,light rain,1.27,0.16
+Biarritz,2026-05-19 15:00:00,18.22,17.98,72,overcast clouds,1.81,0
+Biarritz,2026-05-19 18:00:00,17.66,17.49,77,overcast clouds,1.64,0
+Biarritz,2026-05-19 21:00:00,16.23,16.1,84,overcast clouds,1.23,0
+Biarritz,2026-05-20 00:00:00,14.75,14.58,88,overcast clouds,1.71,0
+Biarritz,2026-05-20 03:00:00,13.91,13.71,90,broken clouds,1.6,0
+Biarritz,2026-05-20 06:00:00,14.56,14.34,87,scattered clouds,2.09,0
+Biarritz,2026-05-20 09:00:00,18.58,18.43,74,clear sky,2.75,0
+Biarritz,2026-05-20 12:00:00,20.44,20.32,68,few clouds,3.79,0
+Bayonne,2026-05-15 15:00:00,13.42,12.67,71,light rain,5.26,1.36
+Bayonne,2026-05-15 18:00:00,14.68,14.08,72,light rain,5.7,1
+Bayonne,2026-05-15 21:00:00,14,13.31,71,light rain,4,0.21
+Bayonne,2026-05-16 00:00:00,11.22,10.49,80,light rain,4.39,1.41
+Bayonne,2026-05-16 03:00:00,16.18,15.99,82,light rain,4.19,1.63
+Bayonne,2026-05-16 06:00:00,14.62,14.3,83,light rain,4.82,2.03
+Bayonne,2026-05-16 09:00:00,13.07,12.52,80,light rain,5.26,1.7
+Bayonne,2026-05-16 12:00:00,15.38,14.59,62,light rain,5.32,0.67
+Bayonne,2026-05-16 15:00:00,15.35,14.61,64,light rain,4.16,0.15
+Bayonne,2026-05-16 18:00:00,14.55,13.91,71,scattered clouds,2.5,0
+Bayonne,2026-05-16 21:00:00,11.69,11.06,82,overcast clouds,1.71,0
+Bayonne,2026-05-17 00:00:00,9.98,9.15,90,overcast clouds,2.02,0
+Bayonne,2026-05-17 03:00:00,9.19,8.2,91,scattered clouds,2.06,0
+Bayonne,2026-05-17 06:00:00,10.24,9.51,84,scattered clouds,1.85,0
+Bayonne,2026-05-17 09:00:00,15.76,15.04,63,scattered clouds,1.38,0
+Bayonne,2026-05-17 12:00:00,16.59,15.98,64,scattered clouds,3.61,0
+Bayonne,2026-05-17 15:00:00,16.5,16.03,70,overcast clouds,4.45,0
+Bayonne,2026-05-17 18:00:00,15.2,14.76,76,broken clouds,2.85,0
+Bayonne,2026-05-17 21:00:00,12.56,12.06,84,scattered clouds,1.81,0
+Bayonne,2026-05-18 00:00:00,12.39,11.85,83,broken clouds,1.63,0
+Bayonne,2026-05-18 03:00:00,12.93,12.34,79,overcast clouds,1.1,0
+Bayonne,2026-05-18 06:00:00,13.24,12.71,80,overcast clouds,1.09,0
+Bayonne,2026-05-18 09:00:00,15.7,15.1,68,overcast clouds,0.99,0
+Bayonne,2026-05-18 12:00:00,16.57,16.08,69,overcast clouds,3.12,0
+Bayonne,2026-05-18 15:00:00,16.42,15.95,70,overcast clouds,2.71,0
+Bayonne,2026-05-18 18:00:00,16.31,15.93,74,overcast clouds,2.13,0
+Bayonne,2026-05-18 21:00:00,13.79,13.42,84,overcast clouds,0.81,0
+Bayonne,2026-05-19 00:00:00,13.38,12.94,83,overcast clouds,1.32,0
+Bayonne,2026-05-19 03:00:00,13.46,13.03,83,overcast clouds,1.02,0
+Bayonne,2026-05-19 06:00:00,14.28,13.9,82,overcast clouds,2.16,0
+Bayonne,2026-05-19 09:00:00,19.2,18.9,66,broken clouds,1.3,0
+Bayonne,2026-05-19 12:00:00,16.81,16.53,76,light rain,1.65,0.18
+Bayonne,2026-05-19 15:00:00,18.57,18.34,71,overcast clouds,2.07,0
+Bayonne,2026-05-19 18:00:00,17.69,17.53,77,overcast clouds,1.8,0
+Bayonne,2026-05-19 21:00:00,15.74,15.62,86,broken clouds,1.16,0
+Bayonne,2026-05-20 00:00:00,14.05,13.89,91,overcast clouds,1.48,0
+Bayonne,2026-05-20 03:00:00,13.28,13.07,92,broken clouds,1.45,0
+Bayonne,2026-05-20 06:00:00,14.22,14.02,89,scattered clouds,1.87,0
+Bayonne,2026-05-20 09:00:00,18.99,18.82,72,clear sky,2.5,0
+Bayonne,2026-05-20 12:00:00,21.19,21.04,64,few clouds,2.91,0
+La Rochelle,2026-05-15 15:00:00,14.98,14,56,few clouds,9.41,0
+La Rochelle,2026-05-15 18:00:00,14.53,13.61,60,light rain,8.6,0.36
+La Rochelle,2026-05-15 21:00:00,12.26,11.37,70,light rain,5.99,0.85
+La Rochelle,2026-05-16 00:00:00,9.4,6.59,81,light rain,5.69,1.11
+La Rochelle,2026-05-16 03:00:00,8.26,5.56,82,scattered clouds,4.65,0
+La Rochelle,2026-05-16 06:00:00,9,7.11,77,broken clouds,3.34,0
+La Rochelle,2026-05-16 09:00:00,11.67,10.64,67,broken clouds,3.01,0
+La Rochelle,2026-05-16 12:00:00,11.73,10.89,74,light rain,3.87,0.12
+La Rochelle,2026-05-16 15:00:00,13.31,12.73,78,broken clouds,3.89,0
+La Rochelle,2026-05-16 18:00:00,14.18,13.61,75,broken clouds,4.86,0
+La Rochelle,2026-05-16 21:00:00,13.86,13.21,73,overcast clouds,5.17,0
+La Rochelle,2026-05-17 00:00:00,13.65,13.21,82,light rain,5.89,0.97
+La Rochelle,2026-05-17 03:00:00,13.7,13.08,75,light rain,4.74,1.26
+La Rochelle,2026-05-17 06:00:00,14.21,13.67,76,light rain,4.41,0.12
+La Rochelle,2026-05-17 09:00:00,14.37,13.98,81,light rain,5.24,2.11
+La Rochelle,2026-05-17 12:00:00,15.02,14.59,77,light rain,5.63,1.42
+La Rochelle,2026-05-17 15:00:00,14.37,13.77,73,light rain,6.32,0.15
+La Rochelle,2026-05-17 18:00:00,14.1,13.39,70,broken clouds,6.85,0
+La Rochelle,2026-05-17 21:00:00,13.08,12.27,70,overcast clouds,5.89,0
+La Rochelle,2026-05-18 00:00:00,12.72,11.82,68,light rain,4.75,0.1
+La Rochelle,2026-05-18 03:00:00,13.34,12.48,67,overcast clouds,4.82,0
+La Rochelle,2026-05-18 06:00:00,13.53,12.84,73,light rain,5.42,0.39
+La Rochelle,2026-05-18 09:00:00,14.24,13.55,70,light rain,6.44,0.33
+La Rochelle,2026-05-18 12:00:00,14.87,14.16,67,light rain,6.34,0.41
+La Rochelle,2026-05-18 15:00:00,15.36,14.65,65,overcast clouds,5.41,0
+La Rochelle,2026-05-18 18:00:00,14.92,14.3,70,overcast clouds,5.42,0
+La Rochelle,2026-05-18 21:00:00,14.7,14.08,71,overcast clouds,6.37,0
+La Rochelle,2026-05-19 00:00:00,13.69,13.18,79,light rain,8.35,0.13
+La Rochelle,2026-05-19 03:00:00,14.88,14.7,87,light rain,8.85,0.51
+La Rochelle,2026-05-19 06:00:00,14.85,14.79,92,light rain,10.01,1.92
+La Rochelle,2026-05-19 09:00:00,15.42,15.42,92,light rain,10.32,1.87
+La Rochelle,2026-05-19 12:00:00,16.87,16.86,86,light rain,7.76,0.74
+La Rochelle,2026-05-19 15:00:00,16.46,16.3,82,broken clouds,7.4,0
+La Rochelle,2026-05-19 18:00:00,15.94,15.78,84,broken clouds,5.68,0
+La Rochelle,2026-05-19 21:00:00,15.16,15,87,clear sky,4.64,0
+La Rochelle,2026-05-20 00:00:00,14.94,14.76,87,clear sky,3.77,0
+La Rochelle,2026-05-20 03:00:00,14.69,14.46,86,few clouds,2.88,0
+La Rochelle,2026-05-20 06:00:00,15.23,15.03,85,broken clouds,1.27,0
+La Rochelle,2026-05-20 09:00:00,16.56,16.26,76,scattered clouds,2.03,0
+La Rochelle,2026-05-20 12:00:00,17.19,16.84,72,scattered clouds,3.38,0

@@ -1,0 +1,50 @@
+
+# Environment & Secrets
+
+
+.env
+env/
+venv/
+env_k/
+
+
+# Python
+
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Logs
+
+
+logs/
+*.log
+
+
+# Jupyter
+
+
+.ipynb_checkpoints/
+
+
+# macOS
+
+
+.DS_Store
+
+
+# IDE / Editor
+
+
+.vscode/
+.idea/
+
+
+# Temporary files
+
+
+*.tmp
+*.swp

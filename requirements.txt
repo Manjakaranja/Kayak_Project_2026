@@ -1,0 +1,9 @@
+requests
+scrapy
+scrapy-playwright # after pip install -> do playwright install (zsh) to install chrome etc
+python-dotenv
+boto3
+pandas
+plotly
+sqlalchemy
+psycopg2-binary
