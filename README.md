@@ -129,6 +129,13 @@ Visualization Generation
 
 The orchestration layer centralizes the execution order of all modules and guarantees deterministic execution of the complete workflow.
 
+
+**Architectural Note**
+
+Hotel scraping is intentionally performed only after computing the Top 5 destinations. This design reduces unnecessary scraping operations, limits the number of requests sent to Booking.com, decreases execution time and infrastructure costs, and minimizes the risk of blocking or throttling during scraping operations.
+
+By filtering destinations first through weather analytics, the pipeline focuses scraping resources only on the most relevant cities. This reflects a more scalable, resource-efficient and production-oriented data engineering approach.
+
 ---
 
 # Configuration Layer
