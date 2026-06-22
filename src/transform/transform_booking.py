@@ -13,7 +13,7 @@ AWS_ACCESS_KEY = os.getenv("AWS_ACCESS_KEY")
 AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
 
 AWS_REGION = "eu-west-3"
-BUCKET_NAME = "01-kayak-jedha"
+BUCKET_NAME = "02-kayak-jedha"
 
 S3_KEY = "raw/booking/booking_data.csv"
 

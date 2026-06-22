@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": null,
    "id": "6d575481",
    "metadata": {},
    "outputs": [
@@ -36,9 +36,9 @@
     "load_dotenv(find_dotenv(), override=True)\n",
     "\n",
     "AWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\n",
-    "AWS_SECRET_ACCESS_KEY = os.getenv(\"AWS_SECRET_ACCESS_KEY\")  # ⚠️ espace corrigé\n",
+    "AWS_SECRET_ACCESS_KEY = os.getenv(\"AWS_SECRET_ACCESS_KEY\")\n",
     "AWS_REGION = \"eu-west-3\"\n",
-    "BUCKET_NAME = \"01-kayak-jedha\"\n",
+    "BUCKET_NAME = \"02-kayak-jedha\" #MAJ\n",
     "\n",
     "# === S3 ===\n",
     "def get_s3_resource():\n",
@@ -58,7 +58,7 @@
     "\n",
     "\n",
     "def upload_raw_folder(prefix: str = \"raw/\"):\n",
-    "    for path in RAW_DIR.rglob(\"*.csv\"):  # prend aussi sous-dossiers\n",
+    "    for path in RAW_DIR.rglob(\"*.csv\"): \n",
     "        s3_key = f\"{prefix}{path.name}\"\n",
     "        upload_file(path, s3_key)\n",
     "\n",

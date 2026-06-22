@@ -107,6 +107,12 @@ class BookingSpider(scrapy.Spider):
         city = response.meta.get("city")
 
         try:
+            await page.screenshot(
+                path=f"debug_{city}.png",
+                full_page=True
+            )
+
+            print(page.url)
 
             await page.wait_for_selector(
                 "a[data-testid='title-link']",

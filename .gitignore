@@ -17,11 +17,12 @@ __pycache__/
 *.pyd
 
 
-# Logs
+# data
 
 
 logs/
 *.log
+*.png
 
 
 # Jupyter
