@@ -1,3 +1,4 @@
+<img width="890" height="514" alt="Capture d’écran 2026-06-26 à 16 33 13" src="https://github.com/user-attachments/assets/a3b04229-f17d-47fc-84d7-83d21c976957" />
 # Cloud-Based Travel Recommendation Data Platform
 
 End-to-end data engineering pipeline designed to identify attractive travel destinations in France based on short-term weather conditions and enrich them with hotel recommendations collected from Booking.com.
@@ -431,7 +432,10 @@ This project demonstrates a modular cloud-based data engineering workflow combin
 * analytical transformation
 * * orchestration
 * visualization
+The implementation intentionally prioritizes clarity, modularity, and practical engineering structure over unnecessary complexity.
 
+
+AWS Ressources :
 
 <img width="1409" height="770" alt="Capture d’écran 2026-06-26 à 16 28 23" src="https://github.com/user-attachments/assets/38e35abe-163a-4b5e-a5f2-15e79bcf4880" />
 
@@ -439,12 +443,14 @@ This project demonstrates a modular cloud-based data engineering workflow combin
 
 TOP 5 DESTINATIONS :
 
-<img width="322" height="180" alt="image" src="https://github.com/user-attachments/assets/bec13745-a9ea-48f7-811d-ee50fbb13b5e" />
+<img width="918" height="542" alt="Capture d’écran 2026-06-26 à 16 34 04" src="https://github.com/user-attachments/assets/dadcdb5a-3ae1-456f-86c0-7f2f50f04e9f" />
+
 
 
 
 TOP 20 HOTELS IN AREA :
 
-<img width="339" height="184" alt="image" src="https://github.com/user-attachments/assets/1ac35247-3869-4e5e-b84b-db15e8fd5afc" />
+<img width="914" height="500" alt="Capture d’écran 2026-06-26 à 16 34 23" src="https://github.com/user-attachments/assets/13e7e95a-5190-42e1-8722-ff9cb2b87f92" />
 
-The implementation intentionally prioritizes clarity, modularity, and practical engineering structure over unnecessary complexity.
+
+
