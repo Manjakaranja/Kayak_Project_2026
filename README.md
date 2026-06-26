@@ -429,6 +429,8 @@ This project demonstrates a modular cloud-based data engineering workflow combin
 * cloud storage
 * warehouse loading
 * analytical transformation
+
+<img width="1409" height="770" alt="Capture d’écran 2026-06-26 à 16 28 23" src="https://github.com/user-attachments/assets/38e35abe-163a-4b5e-a5f2-15e79bcf4880" />
 * orchestration
 * visualization
 
