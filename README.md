@@ -1,4 +1,3 @@
-<img width="890" height="514" alt="Capture d’écran 2026-06-26 à 16 33 13" src="https://github.com/user-attachments/assets/a3b04229-f17d-47fc-84d7-83d21c976957" />
 # Cloud-Based Travel Recommendation Data Platform
 
 End-to-end data engineering pipeline designed to identify attractive travel destinations in France based on short-term weather conditions and enrich them with hotel recommendations collected from Booking.com.
