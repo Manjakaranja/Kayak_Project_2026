@@ -429,9 +429,22 @@ This project demonstrates a modular cloud-based data engineering workflow combin
 * cloud storage
 * warehouse loading
 * analytical transformation
+* * orchestration
+* visualization
+
 
 <img width="1409" height="770" alt="Capture d’écran 2026-06-26 à 16 28 23" src="https://github.com/user-attachments/assets/38e35abe-163a-4b5e-a5f2-15e79bcf4880" />
-* orchestration
-* visualization
+
+
+
+TOP 5 DESTINATIONS :
+
+<img width="322" height="180" alt="image" src="https://github.com/user-attachments/assets/bec13745-a9ea-48f7-811d-ee50fbb13b5e" />
+
+
+
+TOP 20 HOTELS IN AREA :
+
+<img width="339" height="184" alt="image" src="https://github.com/user-attachments/assets/1ac35247-3869-4e5e-b84b-db15e8fd5afc" />
 
 The implementation intentionally prioritizes clarity, modularity, and practical engineering structure over unnecessary complexity.
